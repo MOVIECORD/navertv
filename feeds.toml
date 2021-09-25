@@ -18,7 +18,7 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
-[siwff_navertv]
+[bifan_navertv]
 title = "부천국제판타스틱영화제 ─ 네이버TV"
 url = "https://tv.naver.com/bifanofficial/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
