@@ -1,4 +1,4 @@
-[siff_navertv]
+[siff]
 title = "서울독립영화제서울독립영화제 ─ 네이버TV"
 url = "https://tv.naver.com/siff/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -8,7 +8,7 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
-[siwff_navertv]
+[siwff]
 title = "서울국제여성영화제 ─ 네이버TV"
 url = "https://tv.naver.com/siwff/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -18,7 +18,7 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
-[bifan_navertv]
+[bifan]
 title = "부천국제판타스틱영화제 ─ 네이버TV"
 url = "https://tv.naver.com/bifanofficial/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
