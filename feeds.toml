@@ -28,7 +28,6 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
-
 [mjff]
 title = "무주산골영화제 ─ 네이버TV"
 url = "https://tv.naver.com/mjff/clips"
