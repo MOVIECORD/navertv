@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/siwff/clips</id>
-    <title>서울국제여성영화제 ─ 네이버TV</title>
-    <updated>2021-10-10T20:12:36.279Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/siwff/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울국제여성영화제 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 10 Oct 2021 21:10:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SIWFF2021] 제23회 서울국제여성영화제 폐막식 하이라이트 / Closing Ceremony]]></title>
+            <link>https://tv.naver.com/v/22330027</link>
+            <guid>https://tv.naver.com/v/22330027</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_264/XZk90_1631066415997HnARC_JPEG/e1987452-1047-11ec-9d7e-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 김민정]]></title>
+            <link>https://tv.naver.com/v/22123891</link>
+            <guid>https://tv.naver.com/v/22123891</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210829_241/NKdjr_1630206639788ijuoE_JPEG/503c8803-0876-11ec-af84-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] '돌보다 돌아보다' 제23회 서울국제여성영화제 개막 축하 영상]]></title>
+            <link>https://tv.naver.com/v/22106719</link>
+            <guid>https://tv.naver.com/v/22106719</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[15:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210827_279/GnUye_1630060217794QmWBn_PNG/1630059886465.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 임선애]]></title>
+            <link>https://tv.naver.com/v/22048801</link>
+            <guid>https://tv.naver.com/v/22048801</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210825_132/t9mI4_1629855929068zreb1_JPEG/57bd2af5-0545-11ec-809b-a0369ff94ed0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 임현주]]></title>
+            <link>https://tv.naver.com/v/22029387</link>
+            <guid>https://tv.naver.com/v/22029387</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210824_108/IHynU_16297799821122oMJb_JPEG/ee73ccb2-0494-11ec-8e61-a0369ff94f34_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] 제23회 서울국제여성영화제 방역 수칙 안내]]></title>
+            <link>https://tv.naver.com/v/22025479</link>
+            <guid>https://tv.naver.com/v/22025479</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210824_71/R3GnC_16297681525210qmO2_JPEG/855e0d65-0479-11ec-82ff-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 이용옥]]></title>
+            <link>https://tv.naver.com/v/22009222</link>
+            <guid>https://tv.naver.com/v/22009222</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210823_190/VOktT_1629694323371qxku5_JPEG/876fe9a0-03cd-11ec-8111-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 전여빈]]></title>
+            <link>https://tv.naver.com/v/21960433</link>
+            <guid>https://tv.naver.com/v/21960433</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210819_184/rj9GQ_1629380447475DxoDT_JPEG/889dcbce-00eb-11ec-809b-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 박지완]]></title>
+            <link>https://tv.naver.com/v/21960424</link>
+            <guid>https://tv.naver.com/v/21960424</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210819_8/5zc8P_1629380600512nBnHv_JPEG/89f08a92-00eb-11ec-809b-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 정재은]]></title>
+            <link>https://tv.naver.com/v/21960419</link>
+            <guid>https://tv.naver.com/v/21960419</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210819_126/iJ3Qb_1629380362872qfrLe_JPEG/8a8ddc03-00eb-11ec-809b-a0369ff94ed0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 신수원]]></title>
+            <link>https://tv.naver.com/v/21938404</link>
+            <guid>https://tv.naver.com/v/21938404</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210818_26/mO3r1_1629293631249a15X5_JPEG/919ab5f6-0028-11ec-882d-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 한예리]]></title>
+            <link>https://tv.naver.com/v/21925151</link>
+            <guid>https://tv.naver.com/v/21925151</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210818_179/kFmUg_1629253201471SkQhN_JPEG/522fe8ac-ffca-11eb-89ce-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] 문가영 홍보대사가 보내는 시우프 초대장💌]]></title>
+            <link>https://tv.naver.com/v/21912671</link>
+            <guid>https://tv.naver.com/v/21912671</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_218/yKjYk_1629185939719G322d_JPEG/1629185823836.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 슬릭]]></title>
+            <link>https://tv.naver.com/v/21904493</link>
+            <guid>https://tv.naver.com/v/21904493</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_277/RoCni_1629166785999MFDxB_JPEG/aaf85566-fefb-11eb-8e61-a0369ff94f34_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 이엘]]></title>
+            <link>https://tv.naver.com/v/21890580</link>
+            <guid>https://tv.naver.com/v/21890580</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210816_85/uCsYw_1629086136355DnXCE_JPEG/3fabc360-fe42-11eb-af84-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF 2021] Cheer up! SIWFF with 문가영]]></title>
+            <link>https://tv.naver.com/v/21880518</link>
+            <guid>https://tv.naver.com/v/21880518</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_86/dwwXG_1629004333572Wpw9o_JPEG/20638fd9-fd87-11eb-b778-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 빛나는 / Radiance Trailer]]></title>
+            <link>https://tv.naver.com/v/21879266</link>
+            <guid>https://tv.naver.com/v/21879266</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_62/mW49b_1628995692155AmMRt_JPEG/058105a0-fd73-11eb-b778-a0369ff963bc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 브레이즌 허시 - 호주의 여성해방운동가들 / Brazen Hussies Trailer]]></title>
+            <link>https://tv.naver.com/v/21879257</link>
+            <guid>https://tv.naver.com/v/21879257</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_51/Q3Fqh_1628995593162REvcE_JPEG/cd0ad491-fd72-11eb-809b-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 라라걸 / Ride Like a Girl Trailer]]></title>
+            <link>https://tv.naver.com/v/21879248</link>
+            <guid>https://tv.naver.com/v/21879248</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_106/hYSWo_1628995502151QrJGr_JPEG/a5d21691-fd72-11eb-9d74-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 바바둑 / The Babadook Trailer]]></title>
+            <link>https://tv.naver.com/v/21879240</link>
+            <guid>https://tv.naver.com/v/21879240</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_62/htKNB_1628995437292w71If_JPEG/6c8274e9-fd72-11eb-a77c-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 사랑 혹은 돈, 그 무엇을 위해 - 여성생존의 역사 / For Love or Money Trailer]]></title>
+            <link>https://tv.naver.com/v/21879232</link>
+            <guid>https://tv.naver.com/v/21879232</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_217/YSFHf_1628995341111os1qy_JPEG/234a8f66-fd72-11eb-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 고양이를 부탁해 / Take Care of My Cat Trailer]]></title>
+            <link>https://tv.naver.com/v/21879221</link>
+            <guid>https://tv.naver.com/v/21879221</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_299/Sn8I7_16289952148729OvWu_JPEG/ee01f783-fd71-11eb-8c9c-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 도희야 / A Girl at My Door Trailer]]></title>
+            <link>https://tv.naver.com/v/21879213</link>
+            <guid>https://tv.naver.com/v/21879213</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_1/zb4oh_1628995124770j43hy_JPEG/ae9a6e17-fd71-11eb-a9f1-505dac8c3639_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 코리아 / As One Trailer]]></title>
+            <link>https://tv.naver.com/v/21879204</link>
+            <guid>https://tv.naver.com/v/21879204</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_151/taqcy_1628995022182rELFp_JPEG/840d2deb-fd71-11eb-a8ac-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 공기인형 / Air Doll Trailer]]></title>
+            <link>https://tv.naver.com/v/21879193</link>
+            <guid>https://tv.naver.com/v/21879193</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_293/T1nRm_1628994950840VecCK_JPEG/4da988ec-fd71-11eb-82ff-505dac8c385b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 괴물 / The Host Trailer]]></title>
+            <link>https://tv.naver.com/v/21879181</link>
+            <guid>https://tv.naver.com/v/21879181</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_109/3bgi4_1628994859170Virnq_JPEG/fa7aac69-fd70-11eb-86ec-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 복수는 나의 것 / Sympathy for Mr. Vengeance Trailer]]></title>
+            <link>https://tv.naver.com/v/21879169</link>
+            <guid>https://tv.naver.com/v/21879169</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_38/xQUG1_1628994719555xxsux_JPEG/bd192bf2-fd70-11eb-882d-48df37ae3dc4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 플란다스의 개 / Barking Dogs Never Bite Trailer]]></title>
+            <link>https://tv.naver.com/v/21879161</link>
+            <guid>https://tv.naver.com/v/21879161</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_293/B7kAj_1628994617176PYAEA_JPEG/f341b975-fd6f-11eb-8678-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 나를 깨우는 바람 / The Wind from Nowhere Trailer]]></title>
+            <link>https://tv.naver.com/v/21871817</link>
+            <guid>https://tv.naver.com/v/21871817</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210814_145/396mN_1628931115976Mr9jI_JPEG/98b586f9-fcdc-11eb-a9f1-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIWFF2021] 이게 우리의 모습입니다 / The Way We Are Trailer]]></title>
+            <link>https://tv.naver.com/v/21871809</link>
+            <guid>https://tv.naver.com/v/21871809</guid>
+            <pubDate>Sun, 10 Oct 2021 21:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210814_84/VzdBK_1628931047789HfXJV_JPEG/62ce3e1f-fcdc-11eb-8e61-a0369ff94f34_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
