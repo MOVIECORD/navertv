@@ -4,9 +4,17 @@
         <title>서울독립영화제서울독립영화제 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 08:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 09:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SIFF2021] 개막작 <스프린터> 미리보기]]></title>
+            <link>https://tv.naver.com/v/23400711</link>
+            <guid>https://tv.naver.com/v/23400711</guid>
+            <pubDate>Mon, 08 Nov 2021 09:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_19/8UWih_1636335927587pUmkU_PNG/1636335838254.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SIFF2020] 서울독립영화제 개막영상_ 故 이강길 추모 영상]]></title>
             <link>https://tv.naver.com/v/17263908</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:10:39 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201112_261/AIMXO_1605172251514ipBiv_JPEG/1605172247721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SIFF2020] 페스티벌 초이스 단편4 <미믹> 미리보기]]></title>
-            <link>https://tv.naver.com/v/16679287</link>
-            <guid>https://tv.naver.com/v/16679287</guid>
-            <pubDate>Sun, 10 Oct 2021 21:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201112_260/cMvxn_160517218672346Agz_JPEG/1605172162119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
