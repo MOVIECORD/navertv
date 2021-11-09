@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 08:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 09:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_108/3ulkL_16363571405881Bkv1_JPEG/1636357119069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[SIFF2021] 본선 장편경쟁9 <모어> 미리보기 (서울독립영화제서울독립영화제 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23408288</link>
-            <guid>https://tv.naver.com/v/23408288</guid>
-            <pubDate>Mon, 08 Nov 2021 10:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[10:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_248/oPHER_1636357089839NQitA_JPEG/1636357057902.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[[SIFF2021] 본선 장편경쟁3 <집에서, 집으로> 미리보기 (서울독립영화제서울독립영화제 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23408276</link>
             <guid>https://tv.naver.com/v/23408276</guid>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 08 Nov 2021 10:14:12 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_211/qwB6V_1636356751813rwCkU_JPEG/1636356684077.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SIFF2021] 새로운선택 장편5 <모퉁이> 미리보기 (서울독립영화제서울독립영화제 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23402962</link>
+            <guid>https://tv.naver.com/v/23402962</guid>
+            <pubDate>Tue, 09 Nov 2021 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_119/evWnx_1636343764429CIJOL_PNG/1636343716047.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SIWFF2021] 제23회 서울국제여성영화제 폐막식 하이라이트 / Closing Ceremony (서울국제여성영화제 ─ 네이버TV)]]></title>
