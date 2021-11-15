@@ -4,9 +4,17 @@
         <title>서울독립영화제서울독립영화제 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 01:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 02:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SIFF2021] 페스티벌 초이스 단편 쇼케이스4 <거북이와 여자들> 미리보기]]></title>
+            <link>https://tv.naver.com/v/23528545</link>
+            <guid>https://tv.naver.com/v/23528545</guid>
+            <pubDate>Mon, 15 Nov 2021 02:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_221/BltPX_16369431655077lBLn_JPEG/1636943151710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SIFF2021] 본선 단편경쟁7 <보속> 미리보기]]></title>
             <link>https://tv.naver.com/v/23464331</link>
@@ -38,14 +46,6 @@
             <pubDate>Mon, 08 Nov 2021 10:14:12 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_142/jW2LL_1636360244769H02zu_JPEG/1636359746073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SIFF2021] 페스티벌 초이스 단편 쇼케이스4 <거북이와 여자들> 미리보기]]></title>
-            <link>https://tv.naver.com/v/23410012</link>
-            <guid>https://tv.naver.com/v/23410012</guid>
-            <pubDate>Mon, 08 Nov 2021 10:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_181/sMWz9_1636360240283Jccwz_JPEG/1636359408633.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SIFF2021] 페스티벌 초이스 단편 쇼케이스3 <1959년의 김시스터즈- 숙자,애자,민자 언니들에게]]></title>
