@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 08:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 09:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SIFF2021] 개막작 <스프린터> 미리보기 (서울독립영화제서울독립영화제 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23601151</link>
+            <guid>https://tv.naver.com/v/23601151</guid>
+            <pubDate>Thu, 18 Nov 2021 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_61/adHnf_1637225651656A64xW_PNG/1637225640588.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SIFF2021] 페스티벌 초이스 단편 쇼케이스4 <거북이와 여자들> 미리보기 (서울독립영화제서울독립영화제 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23528545</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Nov 2021 10:14:12 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_193/HtZCE_1636356977509qEQC3_PNG/1636356954609.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[SIFF2021] 본선 장편경쟁10 <흐르다> 미리보기 (서울독립영화제서울독립영화제 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23408236</link>
-            <guid>https://tv.naver.com/v/23408236</guid>
-            <pubDate>Mon, 08 Nov 2021 10:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_164/cyujb_1636356949025Sqovw_PNG/1636356796862.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SIWFF2021] 제23회 서울국제여성영화제 폐막식 하이라이트 / Closing Ceremony (서울국제여성영화제 ─ 네이버TV)]]></title>
