@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 14:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 15:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21597676</link>
+            <guid>https://tv.naver.com/v/21597676</guid>
+            <pubDate>Tue, 30 Nov 2021 15:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_81/CbxVa_16275397378519zJ0T_JPEG/dd19a0d6-f031-11eb-8c45-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] Mascot (연출 김리하)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21597657</link>
+            <guid>https://tv.naver.com/v/21597657</guid>
+            <pubDate>Tue, 30 Nov 2021 15:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_271/kWtJq_16275396909285UD25_JPEG/d8ffd2d4-f031-11eb-8c45-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 검은악어 (연출 장나리)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21597640</link>
+            <guid>https://tv.naver.com/v/21597640</guid>
+            <pubDate>Tue, 30 Nov 2021 15:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_29/ckCoW_1627539643011MEdOT_JPEG/1627539580637.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 우주의 끝 (연출 한병아)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/21597382</link>
@@ -94,30 +118,6 @@
             <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
             <content:encoded><![CDATA[7:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210729_151/oMkFx_1627535187327cBTTm_JPEG/1627535129257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 검은 악어 (연출 장나리) (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21595709</link>
-            <guid>https://tv.naver.com/v/21595709</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_166/jv0Ri_1627535053183UBNHK_JPEG/1627534984067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은) (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21595661</link>
-            <guid>https://tv.naver.com/v/21595661</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_173/4i7IN_1627538078487zxIp0_PNG/1627538075012.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] Mascot (연출 김리하) (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21595609</link>
-            <guid>https://tv.naver.com/v/21595609</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[6:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_40/7xztr_1627534810851y78OC_PNG/1627534723718.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장X오렌지필름] 컨테이너 (연출 김세인)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
