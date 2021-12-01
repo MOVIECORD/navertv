@@ -67,3 +67,13 @@ linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
+
+[jtbc.movieroom]
+title = "방구석1열 ─ 네이버TV"
+url = "https://tv.naver.com/jtbc.movieroom/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
