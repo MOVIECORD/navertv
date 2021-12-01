@@ -49,7 +49,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
 [kbs.independentfilm]
-title = "독립영 ─ 네이버TV"
+title = "독립영화관 ─ 네이버TV"
 url = "https://tv.naver.com/kbs.independentfilm/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title"
