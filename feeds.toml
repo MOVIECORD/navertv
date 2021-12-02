@@ -48,7 +48,7 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
-[kbs.independentfilm]
+[kbs-independentfilm]
 title = "독립영화관 ─ 네이버TV"
 url = "https://tv.naver.com/kbs.independentfilm/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -58,7 +58,7 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
-[mbc.video]
+[mbc-video]
 title = "출발! 비디오 여행 ─ 네이버TV"
 url = "https://tv.naver.com/mbc.video/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -68,7 +68,7 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
-[jtbc.movieroom]
+[jtbc-movieroom]
 title = "방구석1열 ─ 네이버TV"
 url = "https://tv.naver.com/jtbc.movieroom/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
