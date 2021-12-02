@@ -1,8 +1,9 @@
 # 네이버 TV
 https://moviecord.github.io/navertv/all.xml
 
-## [네이버 인디극장](https://tv.naver.com/indiecinema)
-- https://moviecord.github.io/navertv/indiecinema.xml
+## 네이버
+- [네이버 영화 예고편 저장소네이버 영화](https://tv.naver.com/kbs.independentfilm/clips): : https://moviecord.github.io/navertv/navermovie.xml
+- [네이버 인디극장](https://tv.naver.com/indiecinema): https://moviecord.github.io/navertv/indiecinema.xml
 
 ## 영화제
 ### [부천국제판타스틱영화제](https://tv.naver.com/bifanofficial/clips)
