@@ -61,7 +61,7 @@ titleSelector = "dt.title"
 linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
-waitUntil = "networkidle"
+waitForSelector = "div[class^='cds _MM_CARD']"
 onFail = "stale"
 
 [mbc-video]
