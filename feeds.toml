@@ -1,3 +1,14 @@
+[navermovie]
+title = "네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV"
+url = "https://tv.naver.com/navermovie/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [indiecinema]
 title = "네이버 인디극장 ─ 네이버TV"
 url = "https://tv.naver.com/indiecinema/clips"
