@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['라스트 나잇 인 소호' 명품 OST 비하인드 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23884969</link>
+            <guid>https://tv.naver.com/v/23884969</guid>
+            <pubDate>Fri, 03 Dec 2021 08:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_174/bO5Tb_1638517565453e0L9a_JPEG/cf3ee92e-540c-11ec-92ae-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['매트릭스: 리저렉션' 시크릿 코드 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23884496</link>
+            <guid>https://tv.naver.com/v/23884496</guid>
+            <pubDate>Fri, 03 Dec 2021 08:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_122/XTRlN_1638516398280aqv9I_JPEG/4d18a6e7-540a-11ec-9ee0-a0369ff94ed0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['매트릭스: 리저렉션' 전설의 컴백 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23884398</link>
+            <guid>https://tv.naver.com/v/23884398</guid>
+            <pubDate>Fri, 03 Dec 2021 08:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_159/PmMWX_1638516101956pc9aV_JPEG/9c70593a-5409-11ec-92ae-a0369ff952f4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['해피 뉴 이어' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23881600</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_196/udTHB_1638323208207w4dj9_JPEG/3c31c3d6-5248-11ec-8636-505dac8c3639_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['늑대소년의 모험' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23832467</link>
-            <guid>https://tv.naver.com/v/23832467</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_257/eH2Gf_1638322824081yRy1k_JPEG/36474a92-5247-11ec-9ee0-a0369ff94ed0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['블러드 스카이 19' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23832298</link>
-            <guid>https://tv.naver.com/v/23832298</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_278/Y3VS0_1638322044414o4Ns3_JPEG/71fe5699-5244-11ec-a74c-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최단거리는 번거로워서-누아르' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23819446</link>
-            <guid>https://tv.naver.com/v/23819446</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_274/jN48f_1638260357897HNkft_JPEG/1beff157-51b6-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
