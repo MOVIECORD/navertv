@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 04:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['왼팔의복서 닉' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/23924248</link>
+            <guid>https://tv.naver.com/v/23924248</guid>
+            <pubDate>Mon, 06 Dec 2021 05:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_267/YhzSG_1638767148171Pj4rc_JPEG/e739d758-5651-11ec-a74c-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['노아의 방주 2: 새로운 세계로' 간니닌니 추천 영상]]></title>
+            <link>https://tv.naver.com/v/23923874</link>
+            <guid>https://tv.naver.com/v/23923874</guid>
+            <pubDate>Mon, 06 Dec 2021 05:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_226/JezcB_1638766070673n13qd_JPEG/726465ca-564f-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['신데렐라 2: 마법에 걸린 왕자' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/23922122</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_275/jLswW_1638350184145cT68V_JPEG/257686e3-5287-11ec-a979-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오늘도 참치마요' 오늘도 참치마요 메이킹 - 도강수]]></title>
-            <link>https://tv.naver.com/v/23844650</link>
-            <guid>https://tv.naver.com/v/23844650</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_25/Rye8y_1638349967118TkCjh_JPEG/a88163c4-5286-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오늘도 참치마요' 오늘도 참치마요 메이킹 - 꽁냥꽁냥]]></title>
-            <link>https://tv.naver.com/v/23844559</link>
-            <guid>https://tv.naver.com/v/23844559</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_119/l5uh0_1638349766201yVrth_JPEG/3b51bbad-5286-11ec-82c9-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
