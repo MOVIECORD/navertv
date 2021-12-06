@@ -4,9 +4,41 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 02:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['13인의 무사2' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/23921870</link>
+            <guid>https://tv.naver.com/v/23921870</guid>
+            <pubDate>Mon, 06 Dec 2021 02:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_7/G08lo_1638757568819EmeK0_JPEG/b783097b-563b-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아바타의 후예1 : 쾌락의 행성' 예고편]]></title>
+            <link>https://tv.naver.com/v/23921777</link>
+            <guid>https://tv.naver.com/v/23921777</guid>
+            <pubDate>Mon, 06 Dec 2021 02:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_227/pBDSR_16387572364222J3aR_JPEG/f020195c-563a-11ec-9e9c-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['건 파이터' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/23921626</link>
+            <guid>https://tv.naver.com/v/23921626</guid>
+            <pubDate>Mon, 06 Dec 2021 02:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_254/wzelb_1638756635981Vl4tv_JPEG/991668d0-5639-11ec-b2c0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['믿을 수 없는' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/23921495</link>
+            <guid>https://tv.naver.com/v/23921495</guid>
+            <pubDate>Mon, 06 Dec 2021 02:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_43/kwuCY_1638756228158xvU2v_JPEG/925fec69-5638-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['기묘한 이야기: 리유니온' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/23921343</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_288/k29ZU_1638349590446TFGNO_JPEG/b0ac6a5e-5285-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청춘적니' 굴초소 감사 인사 영상]]></title>
-            <link>https://tv.naver.com/v/23844079</link>
-            <guid>https://tv.naver.com/v/23844079</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_96/iwjQ0_1638348724215oEUXi_JPEG/c8bb8a9b-5283-11ec-b39d-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코인룸' 예고편]]></title>
-            <link>https://tv.naver.com/v/23842863</link>
-            <guid>https://tv.naver.com/v/23842863</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_63/l4cgl_1638346403907f5apY_JPEG/7c2fd894-527e-11ec-9ac7-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포에버 퍼스트 러브' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/23842409</link>
-            <guid>https://tv.naver.com/v/23842409</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_243/OPDjE_16383454404520ejrS_JPEG/2b1d10bb-527c-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['총을 들지 않는 사람들: 금기에 도전' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/23839034</link>
-            <guid>https://tv.naver.com/v/23839034</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_278/AXPQt_16383396287824GpzK_JPEG/78fc6666-526e-11ec-9a6e-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
