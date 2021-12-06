@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오퍼레이션 파나마' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23929606</link>
+            <guid>https://tv.naver.com/v/23929606</guid>
+            <pubDate>Mon, 06 Dec 2021 09:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_181/kPhQA_1638779369723YCi1D_JPEG/8efdedc9-566e-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['실종: 사라진 소녀' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23927841</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_18/3dwC4_16384246722229bdSH_JPEG/9b8c23d3-5334-11ec-9e9c-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해탄적일천' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23858365</link>
-            <guid>https://tv.naver.com/v/23858365</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_167/ZkUtp_1638424574583WO8SS_PNG/1638424570423.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
