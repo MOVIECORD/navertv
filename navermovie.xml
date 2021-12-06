@@ -4,9 +4,33 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 23:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 00:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사울 레이터: 인 노 그레이트 허리' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/23888008</link>
+            <guid>https://tv.naver.com/v/23888008</guid>
+            <pubDate>Mon, 06 Dec 2021 00:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_248/vqIUa_1638522549087mx19V_JPEG/99032117-5418-11ec-917b-a0369ff9545c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['존경하고 사랑하는 국민 여러분' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/23887990</link>
+            <guid>https://tv.naver.com/v/23887990</guid>
+            <pubDate>Mon, 06 Dec 2021 00:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_257/s6H7c_163852250754013JS5_JPEG/7cc116fd-5418-11ec-917b-a0369ff9545c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사막을 건너 호수를 지나' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/23887974</link>
+            <guid>https://tv.naver.com/v/23887974</guid>
+            <pubDate>Mon, 06 Dec 2021 00:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_58/sKrBA_1638522460638H7HqV_JPEG/5a9c6587-5418-11ec-a713-a0369ff95ec0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['라스트 나잇 인 소호' 명품 OST 비하인드 영상]]></title>
             <link>https://tv.naver.com/v/23884969</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_13/lcxoZ_1638336508950Qwl9v_JPEG/4ee08a19-5267-11ec-a74c-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['램' 30초 충격 주의 영상]]></title>
-            <link>https://tv.naver.com/v/23836758</link>
-            <guid>https://tv.naver.com/v/23836758</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_55/QgJAA_1638335576006lXwF3_JPEG/99aaafb6-5264-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엔칸토: 마법의 세계' 배우 함연지 뮤직비디오]]></title>
-            <link>https://tv.naver.com/v/23832658</link>
-            <guid>https://tv.naver.com/v/23832658</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_33/25JKM_163832360324213fCd_JPEG/2ca6ecc2-5249-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우리는 이별에 서툴러서' 예고편]]></title>
-            <link>https://tv.naver.com/v/23832553</link>
-            <guid>https://tv.naver.com/v/23832553</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_196/udTHB_1638323208207w4dj9_JPEG/3c31c3d6-5248-11ec-8636-505dac8c3639_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
