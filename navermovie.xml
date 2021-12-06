@@ -4,9 +4,33 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 06:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 07:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['언힐러' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/23927231</link>
+            <guid>https://tv.naver.com/v/23927231</guid>
+            <pubDate>Mon, 06 Dec 2021 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_154/MXqz4_1638774582555aOHPY_JPEG/545c2a37-5663-11ec-a74c-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['포에버 퍼스트 러브' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/23927033</link>
+            <guid>https://tv.naver.com/v/23927033</guid>
+            <pubDate>Mon, 06 Dec 2021 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_36/10YOY_1638774150998Ebly1_JPEG/5507f09d-5662-11ec-b39d-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['왼팔의복서 닉' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/23926209</link>
+            <guid>https://tv.naver.com/v/23926209</guid>
+            <pubDate>Mon, 06 Dec 2021 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_177/uw4ba_1638772191157c5mTj_JPEG/b5dc1837-565d-11ec-b543-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['왼팔의복서 닉' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/23924248</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_134/uCcSv_1638413867504wys2f_JPEG/2f475953-531b-11ec-a74c-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빅샤크4 : 바다공룡 대모험' 캐릭터 예고편]]></title>
-            <link>https://tv.naver.com/v/23854411</link>
-            <guid>https://tv.naver.com/v/23854411</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_21/MtSR6_163841342679592vkL_JPEG/84188fcb-531a-11ec-a3dc-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['캅샵: 미친놈들의 전쟁' 캅샵X김농밀 특급 콜라보레이션 뮤직비디오]]></title>
-            <link>https://tv.naver.com/v/23853595</link>
-            <guid>https://tv.naver.com/v/23853595</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_241/yVHCT_1638410992626xd0vR_JPEG/1638410940492.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오늘도 참치마요' 오늘도 참치마요 메이킹 - 오소호]]></title>
-            <link>https://tv.naver.com/v/23844734</link>
-            <guid>https://tv.naver.com/v/23844734</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_275/jLswW_1638350184145cT68V_JPEG/257686e3-5287-11ec-a979-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
