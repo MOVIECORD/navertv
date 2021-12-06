@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 00:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:00:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['기묘한 이야기: 리유니온' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23921343</link>
+            <guid>https://tv.naver.com/v/23921343</guid>
+            <pubDate>Mon, 06 Dec 2021 01:59:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_246/DoK3s_1638755666918EHYmq_JPEG/35e4589a-5637-11ec-a979-48df37ae3dc4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['라라와 크리스마스 요정' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23920851</link>
+            <guid>https://tv.naver.com/v/23920851</guid>
+            <pubDate>Mon, 06 Dec 2021 01:59:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_59/Tt8zE_1638754284272ifNek_JPEG/154c1b63-5634-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['노웨어 스페셜' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23920719</link>
+            <guid>https://tv.naver.com/v/23920719</guid>
+            <pubDate>Mon, 06 Dec 2021 01:59:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_72/qWhum_1638753795427AkHa6_JPEG/d2dcc544-5632-11ec-8e54-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['씽2게더' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23920470</link>
+            <guid>https://tv.naver.com/v/23920470</guid>
+            <pubDate>Mon, 06 Dec 2021 01:59:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_89/IgCE9_16387528102016aVED_JPEG/3fb072e8-5630-11ec-b2c0-505dac8c38f5_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사울 레이터: 인 노 그레이트 허리' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23888008</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_278/AXPQt_16383396287824GpzK_JPEG/78fc6666-526e-11ec-9a6e-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨: 노 웨이 홈' 두번째 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23838076</link>
-            <guid>https://tv.naver.com/v/23838076</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_32/3hEuq_16383380895109vjrR_JPEG/ef71669d-526a-11ec-9970-a0369ff94ec8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['팬텀: 더 뮤지컬 라이브' 메이킹 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23838053</link>
-            <guid>https://tv.naver.com/v/23838053</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_226/n2rrh_16383380340778L46D_JPEG/e26b28fa-5269-11ec-8140-a0369ff963bc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이상존재' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23837757</link>
-            <guid>https://tv.naver.com/v/23837757</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_212/5mxgq_1638337514558v5qkm_PNG/1638337510442.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['대마랜드' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23837241</link>
-            <guid>https://tv.naver.com/v/23837241</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_13/lcxoZ_1638336508950Qwl9v_JPEG/4ee08a19-5267-11ec-a74c-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
