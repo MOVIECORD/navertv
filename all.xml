@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['리슨' '엄마의 꿈' 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23948322</link>
+            <guid>https://tv.naver.com/v/23948322</guid>
+            <pubDate>Tue, 07 Dec 2021 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_155/GYrpe_16388560781913NYwA_JPEG/2015f59f-5721-11ec-a331-48df379cca40_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신데렐라 2: 마법에 걸린 왕자' 매력부자 NEW 캐릭터 소개 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23948171</link>
+            <guid>https://tv.naver.com/v/23948171</guid>
+            <pubDate>Tue, 07 Dec 2021 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_155/KQP7n_1638855722286YuRMN_JPEG/226a13f0-5720-11ec-9b44-a0369ff95678_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['피어: 마지막 생존자' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23948102</link>
+            <guid>https://tv.naver.com/v/23948102</guid>
+            <pubDate>Tue, 07 Dec 2021 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_298/xOI7z_1638855589134rut7V_JPEG/aa49d220-571f-11ec-a74c-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['하우스 오브 스네일스' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23948010</link>
+            <guid>https://tv.naver.com/v/23948010</guid>
+            <pubDate>Tue, 07 Dec 2021 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_283/e5lL7_1638855397443NMVRn_JPEG/21c3df14-571f-11ec-9a6e-246e963a49a8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['경관의 피' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23947883</link>
+            <guid>https://tv.naver.com/v/23947883</guid>
+            <pubDate>Tue, 07 Dec 2021 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_252/wzq8b_16388551680452xVaL_JPEG/9c1b8fc1-571e-11ec-b2c0-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오퍼레이션 파나마' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23929606</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 03 Dec 2021 06:15:51 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_136/aqAqh_16385094917240ugb7_JPEG/2890f300-53fa-11ec-a74c-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 뉴 이어' 런칭 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23863774</link>
-            <guid>https://tv.naver.com/v/23863774</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_250/m0HRs_1638438221915k6Vbf_JPEG/3080102f-5354-11ec-a979-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['톰소여의 모험' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23863624</link>
-            <guid>https://tv.naver.com/v/23863624</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_251/0zQSW_1638437774646DAYbl_JPEG/147055c6-5353-11ec-b39d-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['꽃손' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23863544</link>
-            <guid>https://tv.naver.com/v/23863544</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_170/9sEC0_16384375008905Nsj1_JPEG/1638437496175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 아워' 디렉터 그리팅 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23858447</link>
-            <guid>https://tv.naver.com/v/23858447</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_61/ZcALj_1638424720940nhXBJ_JPEG/cfed6912-5334-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노웨어 스페셜' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23858417</link>
-            <guid>https://tv.naver.com/v/23858417</guid>
-            <pubDate>Thu, 02 Dec 2021 18:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_18/3dwC4_16384246722229bdSH_JPEG/9b8c23d3-5334-11ec-9e9c-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
