@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹메이커' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23954183</link>
+            <guid>https://tv.naver.com/v/23954183</guid>
+            <pubDate>Tue, 07 Dec 2021 09:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_228/xLNiQ_1638868182771MvbUa_JPEG/1e750614-573d-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['리슨' '엄마의 꿈' 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23948322</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Dec 2021 06:15:51 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_65/QJVNr_1638509578933bTvjs_PNG/1638509571461.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['청춘적니' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23881558</link>
-            <guid>https://tv.naver.com/v/23881558</guid>
-            <pubDate>Fri, 03 Dec 2021 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_136/aqAqh_16385094917240ugb7_JPEG/2890f300-53fa-11ec-a74c-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
