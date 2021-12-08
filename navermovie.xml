@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 02:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 03:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 스티븐 스필버그 코멘터리 예고편]]></title>
+            <link>https://tv.naver.com/v/23969086</link>
+            <guid>https://tv.naver.com/v/23969086</guid>
+            <pubDate>Wed, 08 Dec 2021 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_129/sWiGv_16389324805585AnB3_JPEG/ad72c04b-57d2-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 스필버그 레전드 60초 스팟]]></title>
+            <link>https://tv.naver.com/v/23968930</link>
+            <guid>https://tv.naver.com/v/23968930</guid>
+            <pubDate>Wed, 08 Dec 2021 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_34/1Zyyn_1638932123614cddJc_JPEG/7f696e5a-57d1-11ec-9ac7-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹메이커' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/23954183</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 03 Dec 2021 08:15:58 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_122/XTRlN_1638516398280aqv9I_JPEG/4d18a6e7-540a-11ec-9ee0-a0369ff94ed0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['매트릭스: 리저렉션' 전설의 컴백 예고편]]></title>
-            <link>https://tv.naver.com/v/23884398</link>
-            <guid>https://tv.naver.com/v/23884398</guid>
-            <pubDate>Fri, 03 Dec 2021 08:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_159/PmMWX_1638516101956pc9aV_JPEG/9c70593a-5409-11ec-92ae-a0369ff952f4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 뉴 이어' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/23881600</link>
-            <guid>https://tv.naver.com/v/23881600</guid>
-            <pubDate>Fri, 03 Dec 2021 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_65/QJVNr_1638509578933bTvjs_PNG/1638509571461.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
