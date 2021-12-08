@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 09:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 10:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['그런 일은 일어나지 않았지' 예고편]]></title>
+            <link>https://tv.naver.com/v/23978276</link>
+            <guid>https://tv.naver.com/v/23978276</guid>
+            <pubDate>Wed, 08 Dec 2021 10:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_247/3LsVR_1638955340216GQD36_JPEG/08e523df-5808-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모진2 : 만인도의 비밀' 예고편]]></title>
             <link>https://tv.naver.com/v/23977742</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Dec 2021 03:13:36 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_265/e0puy_16387583765302Tazk_JPEG/97343eb0-563d-11ec-9a6e-246e963a49a8_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['13인의 무사2' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/23921870</link>
-            <guid>https://tv.naver.com/v/23921870</guid>
-            <pubDate>Mon, 06 Dec 2021 02:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_7/G08lo_1638757568819EmeK0_JPEG/b783097b-563b-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
