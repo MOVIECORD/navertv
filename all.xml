@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 04:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['총을 들지 않는 사람들: 금기에 도전' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23972219</link>
+            <guid>https://tv.naver.com/v/23972219</guid>
+            <pubDate>Wed, 08 Dec 2021 05:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_297/5jtFP_1638940150028f0guB_JPEG/c90ff944-57e4-11ec-9dda-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['웨스트 사이드 스토리' 스티븐 스필버그 코멘터리 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23969086</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Dec 2021 08:15:58 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_174/bO5Tb_1638517565453e0L9a_JPEG/cf3ee92e-540c-11ec-92ae-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['매트릭스: 리저렉션' 시크릿 코드 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23884496</link>
-            <guid>https://tv.naver.com/v/23884496</guid>
-            <pubDate>Fri, 03 Dec 2021 08:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_122/XTRlN_1638516398280aqv9I_JPEG/4d18a6e7-540a-11ec-9ee0-a0369ff94ed0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
