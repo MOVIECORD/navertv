@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 06:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 07:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['램' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23974791</link>
+            <guid>https://tv.naver.com/v/23974791</guid>
+            <pubDate>Wed, 08 Dec 2021 07:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_131/3PylG_1638947164286xXU6I_JPEG/ef830363-57f4-11ec-bc73-a0369ff968b0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['노아의 방주 2: 새로운 세계로' 관객 추천 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23973001</link>
@@ -85,7 +93,7 @@
             <guid>https://tv.naver.com/v/23954183</guid>
             <pubDate>Tue, 07 Dec 2021 09:14:41 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_228/xLNiQ_1638868182771MvbUa_JPEG/1e750614-573d-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_188/woo36_1638945003309dNMzD_JPEG/1638945000461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['리슨' '엄마의 꿈' 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Dec 2021 01:59:34 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_246/DoK3s_1638755666918EHYmq_JPEG/35e4589a-5637-11ec-a979-48df37ae3dc4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['라라와 크리스마스 요정' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23920851</link>
-            <guid>https://tv.naver.com/v/23920851</guid>
-            <pubDate>Mon, 06 Dec 2021 01:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_59/Tt8zE_1638754284272ifNek_JPEG/154c1b63-5634-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
