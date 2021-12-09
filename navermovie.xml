@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 04:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 05:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['워 서바이버' 예고편]]></title>
+            <link>https://tv.naver.com/v/23991672</link>
+            <guid>https://tv.naver.com/v/23991672</guid>
+            <pubDate>Thu, 09 Dec 2021 05:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_76/8CBbf_1639025638331z51KS_JPEG/c8638533-58ab-11ec-9ee0-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['긴 하루' 예고편]]></title>
             <link>https://tv.naver.com/v/23989112</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Dec 2021 05:13:01 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_267/YhzSG_1638767148171Pj4rc_JPEG/e739d758-5651-11ec-a74c-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노아의 방주 2: 새로운 세계로' 간니닌니 추천 영상]]></title>
-            <link>https://tv.naver.com/v/23923874</link>
-            <guid>https://tv.naver.com/v/23923874</guid>
-            <pubDate>Mon, 06 Dec 2021 05:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_226/JezcB_1638766070673n13qd_JPEG/726465ca-564f-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
