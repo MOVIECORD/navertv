@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 02:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['긴 하루' 예고편]]></title>
+            <link>https://tv.naver.com/v/23989112</link>
+            <guid>https://tv.naver.com/v/23989112</guid>
+            <pubDate>Thu, 09 Dec 2021 02:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_268/8W5Ex_1639016727660wSTzy_JPEG/ddb7edb5-5896-11ec-b543-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그런 일은 일어나지 않았지' 예고편]]></title>
             <link>https://tv.naver.com/v/23978276</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Dec 2021 05:13:01 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_226/JezcB_1638766070673n13qd_JPEG/726465ca-564f-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신데렐라 2: 마법에 걸린 왕자' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/23922122</link>
-            <guid>https://tv.naver.com/v/23922122</guid>
-            <pubDate>Mon, 06 Dec 2021 03:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_265/e0puy_16387583765302Tazk_JPEG/97343eb0-563d-11ec-9a6e-246e963a49a8_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
