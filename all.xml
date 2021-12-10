@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 마지막 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24014467</link>
+            <guid>https://tv.naver.com/v/24014467</guid>
+            <pubDate>Fri, 10 Dec 2021 06:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_129/HxO3o_1639115237054t5fvV_JPEG/77c330b6-597c-11ec-a74c-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹스맨: 퍼스트 에이전트' 무삭제 발레 스핀 액션 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24014303</link>
+            <guid>https://tv.naver.com/v/24014303</guid>
+            <pubDate>Fri, 10 Dec 2021 06:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_110/mVChH_1639114906741zqnvD_JPEG/8a15b2da-597b-11ec-9e9c-48df379cc9e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['드라이브 마이 카' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24014044</link>
+            <guid>https://tv.naver.com/v/24014044</guid>
+            <pubDate>Fri, 10 Dec 2021 06:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_245/VkhxN_1639114186442TQy2s_PNG/1639113919922.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['8비트 크리스마스' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24010909</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 08 Dec 2021 06:16:05 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_111/qCqs0_1638941959324CnNWH_JPEG/1116671d-57e9-11ec-9a33-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나는 조선사람입니다' 문화예술계 추천리뷰 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23972528</link>
-            <guid>https://tv.naver.com/v/23972528</guid>
-            <pubDate>Wed, 08 Dec 2021 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_72/4JKbw_1638940774305ljG1z_JPEG/58d6f667-57e6-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노아의 방주 2: 새로운 세계로' 캐릭터 특별 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23972504</link>
-            <guid>https://tv.naver.com/v/23972504</guid>
-            <pubDate>Wed, 08 Dec 2021 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_230/pfWkK_1638940727755j3ycj_JPEG/3ef54a17-57e6-11ec-b0b6-246e963a4708_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['라라와 크리스마스 요정' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23972486</link>
-            <guid>https://tv.naver.com/v/23972486</guid>
-            <pubDate>Wed, 08 Dec 2021 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_26/myqJL_1638940683538D1gSK_PNG/1638940665628.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
