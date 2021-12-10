@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 00:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 01:56:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['클리포드 더 빅 레드 독' 스페셜 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24010584</link>
+            <guid>https://tv.naver.com/v/24010584</guid>
+            <pubDate>Fri, 10 Dec 2021 01:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_83/dYX8j_1639101166307Ixs5p_JPEG/a4f63ee9-595b-11ec-9ee0-a0369ff94ed0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['러브 액츄얼리' 재개봉 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24010471</link>
+            <guid>https://tv.naver.com/v/24010471</guid>
+            <pubDate>Fri, 10 Dec 2021 01:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_138/TsVEC_16391008052503RQA6_JPEG/d5936d4a-595a-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['러브 액츄얼리' 재개봉 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24010394</link>
+            <guid>https://tv.naver.com/v/24010394</guid>
+            <pubDate>Fri, 10 Dec 2021 01:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_166/t2wj7_16391005185644e89V_JPEG/25869bda-595a-11ec-b39d-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아스펜의 공포와 혐오' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24009483</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 08 Dec 2021 06:16:05 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_173/jYrKI_1638940616669SgVEA_JPEG/e93318e5-57e5-11ec-92ae-a0369ff952f4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['호두까기 인형' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23972429</link>
-            <guid>https://tv.naver.com/v/23972429</guid>
-            <pubDate>Wed, 08 Dec 2021 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_249/kyLdO_1638940582746X2s9l_JPEG/e543410e-57e5-11ec-a3dc-246e963a464c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['총을 들지 않는 사람들: 금기에 도전' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23972219</link>
-            <guid>https://tv.naver.com/v/23972219</guid>
-            <pubDate>Wed, 08 Dec 2021 05:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_297/5jtFP_1638940150028f0guB_JPEG/c90ff944-57e4-11ec-9dda-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 스티븐 스필버그 코멘터리 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23969086</link>
-            <guid>https://tv.naver.com/v/23969086</guid>
-            <pubDate>Wed, 08 Dec 2021 03:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_129/sWiGv_16389324805585AnB3_JPEG/ad72c04b-57d2-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
