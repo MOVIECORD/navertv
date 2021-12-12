@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 04:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 05:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1768,6 +1768,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210617_83/d2jN3_1623890204584GqybO_PNG/clip_20210617092214_12.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[방구석 1열 186회 예고편 (방구석1열 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24036939</link>
+            <guid>https://tv.naver.com/v/24036939</guid>
+            <pubDate>Sun, 12 Dec 2021 05:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211212_54/6AjIW_1639285325396yBF5G_JPEG/20211212_134847_595_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방구석 1열 185회 예고편 (방구석1열 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23912020</link>
             <guid>https://tv.naver.com/v/23912020</guid>
@@ -1998,14 +2006,6 @@
             <pubDate>Wed, 08 Dec 2021 12:21:27 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211003_66/Dol7U_1633237907481LCibT_JPEG/20211003_135220_139_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한복의 화려한 아름다움을 담아낸 〈황진이〉👍 | JTBC 211003 방송 (방구석1열 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22759890</link>
-            <guid>https://tv.naver.com/v/22759890</guid>
-            <pubDate>Wed, 08 Dec 2021 12:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_242/T9Q9L_1633237057295CdHCD_JPEG/20211003_134302_265_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
