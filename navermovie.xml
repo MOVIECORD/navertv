@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['늦봄2020' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24051395</link>
+            <guid>https://tv.naver.com/v/24051395</guid>
+            <pubDate>Mon, 13 Dec 2021 06:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_244/V8DLo_1639373791775JvF85_JPEG/8fcf50d8-5bd6-11ec-a3dc-246e963a464c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['매트릭스: 리저렉션' 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/24051125</link>
+            <guid>https://tv.naver.com/v/24051125</guid>
+            <pubDate>Mon, 13 Dec 2021 06:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_136/w9EZY_1639373076055LFWAF_JPEG/798052eb-5bd4-11ec-9d5b-a0369ff94f34_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['소설가 구보의 하루' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/24050813</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 02:36:09 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_268/8W5Ex_1639016727660wSTzy_JPEG/ddb7edb5-5896-11ec-b543-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그런 일은 일어나지 않았지' 예고편]]></title>
-            <link>https://tv.naver.com/v/23978276</link>
-            <guid>https://tv.naver.com/v/23978276</guid>
-            <pubDate>Wed, 08 Dec 2021 10:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_247/3LsVR_1638955340216GQD36_JPEG/08e523df-5808-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모진2 : 만인도의 비밀' 예고편]]></title>
-            <link>https://tv.naver.com/v/23977742</link>
-            <guid>https://tv.naver.com/v/23977742</guid>
-            <pubDate>Wed, 08 Dec 2021 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_297/m6wR3_163895396953308tWN_JPEG/df84d26f-5804-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
