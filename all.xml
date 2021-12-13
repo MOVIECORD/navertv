@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 08:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 09:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹메이커' 제작기 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24055927</link>
+            <guid>https://tv.naver.com/v/24055927</guid>
+            <pubDate>Mon, 13 Dec 2021 09:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_62/7jDxM_1639383798118mpOJs_JPEG/6928a210-5bed-11ec-8140-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['유체이탈자' CG메이킹 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24055013</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 07:13:31 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_111/CJIY4_1639031772584eIAMv_JPEG/bd7fc6fa-58b7-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신데렐라 2: 마법에 걸린 왕자' Magical M/V 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23993687</link>
-            <guid>https://tv.naver.com/v/23993687</guid>
-            <pubDate>Thu, 09 Dec 2021 06:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_29/9NeEM_1639030497565j7N71_JPEG/10fc91e5-58b7-11ec-b2c0-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
