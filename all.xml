@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 01:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해피 뉴 이어' 14인 14색 인물 관계도 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24047557</link>
+            <guid>https://tv.naver.com/v/24047557</guid>
+            <pubDate>Mon, 13 Dec 2021 02:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[5:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_65/tAowb_1639360749739hxDkf_JPEG/4c921ecb-5bb7-11ec-a979-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['청춘적니' 무삭제컷#1 첫만남 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24016638</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Dec 2021 08:16:01 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_116/I2xZL_1638950607411YUYmW_JPEG/31a4832a-57fd-11ec-a979-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨: 노 웨이 홈' 톰 홀랜드 포털 내한 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23975113</link>
-            <guid>https://tv.naver.com/v/23975113</guid>
-            <pubDate>Wed, 08 Dec 2021 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_79/sLeTc_1638947949993WaD32_JPEG/ef2d0935-57f6-11ec-a979-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
