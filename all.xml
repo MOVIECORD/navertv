@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 13:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 14:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_266/cfaSk_1639041306417H1FeV_JPEG/5987dad3-58d0-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 예술공원의 고양이 (연출 김혜련)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21598013</link>
+            <guid>https://tv.naver.com/v/21598013</guid>
+            <pubDate>Tue, 14 Dec 2021 14:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_259/GbLvP_1627540634815HOtOy_JPEG/1627540446428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/21597676</link>
             <guid>https://tv.naver.com/v/21597676</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210316_191/hLxZR_1615876999444pAXyR_JPEG/954c2ec0-8622-11eb-9ca7-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장 X 서울독립영화제] 조금 부족한 여자 (연출 허수영)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/18336152</link>
-            <guid>https://tv.naver.com/v/18336152</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210510_91/kzfCP_1620632828380ulIxv_JPEG/7965fec8-6789-11eb-9d12-48df379cca40_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SIFF2021] 개막작 <스프린터> 미리보기 (서울독립영화제서울독립영화제 ─ 네이버TV)]]></title>
