@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 00:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 02:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['경관의 피' 캐릭터 예고편]]></title>
+            <link>https://tv.naver.com/v/24065860</link>
+            <guid>https://tv.naver.com/v/24065860</guid>
+            <pubDate>Tue, 14 Dec 2021 02:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_126/ENOon_1639446987699x1xz0_JPEG/f19dc343-5c80-11ec-a74c-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹메이커' 제작기 영상]]></title>
             <link>https://tv.naver.com/v/24055927</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 07:13:31 GMT</pubDate>
             <content:encoded><![CDATA[0:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_238/zA5sf_1639032424242OIXJl_JPEG/be7d15db-58bb-11ec-9ee0-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['싸나희 순정' '원보' '유씨' 브로맨스 영상]]></title>
-            <link>https://tv.naver.com/v/23994177</link>
-            <guid>https://tv.naver.com/v/23994177</guid>
-            <pubDate>Thu, 09 Dec 2021 07:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_111/CJIY4_1639031772584eIAMv_JPEG/bd7fc6fa-58b7-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
