@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 06:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 07:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['씽2게더' 씽나게 뮤직 큐! 영상]]></title>
+            <link>https://tv.naver.com/v/24070925</link>
+            <guid>https://tv.naver.com/v/24070925</guid>
+            <pubDate>Tue, 14 Dec 2021 07:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_186/RSIWq_1639462573380YrKax_JPEG/34c9c3bc-5ca5-11ec-9b44-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['씽2게더' 씽 크루의 도전 영상]]></title>
             <link>https://tv.naver.com/v/24070849</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 10:14:34 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_266/cfaSk_1639041306417H1FeV_JPEG/5987dad3-58d0-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['캅샵: 미친놈들의 전쟁' 실관람객 강력 추천 영상]]></title>
-            <link>https://tv.naver.com/v/23998468</link>
-            <guid>https://tv.naver.com/v/23998468</guid>
-            <pubDate>Thu, 09 Dec 2021 09:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_95/3X7un_1639040895666au4he_JPEG/1639040885851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
