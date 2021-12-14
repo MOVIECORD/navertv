@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 14:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 15:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,12 +248,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_266/cfaSk_1639041306417H1FeV_JPEG/5987dad3-58d0-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21598102</link>
+            <guid>https://tv.naver.com/v/21598102</guid>
+            <pubDate>Tue, 14 Dec 2021 15:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_116/5BhG4_1627540898762OCL2H_JPEG/1627540721753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 예술공원의 고양이 (연출 김혜련)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/21598013</link>
             <guid>https://tv.naver.com/v/21598013</guid>
             <pubDate>Tue, 14 Dec 2021 14:12:29 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210729_259/GbLvP_1627540634815HOtOy_JPEG/1627540446428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 엄마와 뻐꾸기 시계 (연출 유재희, 민지혜)_하이라이트 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21597749</link>
+            <guid>https://tv.naver.com/v/21597749</guid>
+            <pubDate>Tue, 14 Dec 2021 15:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_191/Xrf0z_1627539959675YlEh3_PNG/1627539897190.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] The First Class (연출 김명은)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
@@ -326,14 +342,6 @@
             <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210729_29/ayiBh_1627538509274zux9H_JPEG/cd8410ab-f031-11eb-8c45-505dac8c381b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 예술공원의 고양이 (연출 김혜련) (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21596114</link>
-            <guid>https://tv.naver.com/v/21596114</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_240/cFcWV_1627542645885HW9QG_JPEG/1627542643192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] Sigh of sighs (연출 김보성) (네이버 인디극장 ─ 네이버TV)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210316_33/79SPr_16158771100531Cn3g_JPEG/93fa816f-8622-11eb-9ca7-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버 인디극장X오렌지필름] 고온다습 (연출 김호정)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/19017543</link>
-            <guid>https://tv.naver.com/v/19017543</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210316_191/hLxZR_1615876999444pAXyR_JPEG/954c2ec0-8622-11eb-9ca7-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SIFF2021] 개막작 <스프린터> 미리보기 (서울독립영화제서울독립영화제 ─ 네이버TV)]]></title>
