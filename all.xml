@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 06:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 07:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아멜리에' 장 피에르 주네 감독 축하 인사 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24089925</link>
+            <guid>https://tv.naver.com/v/24089925</guid>
+            <pubDate>Wed, 15 Dec 2021 07:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_109/8Dh4m_1639549300050yuHHL_JPEG/f24a3ddf-5d6e-11ec-b39d-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['경관의 피' 60초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24088666</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.naver.com/v/24055927</guid>
             <pubDate>Mon, 13 Dec 2021 09:15:14 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_62/7jDxM_1639383798118mpOJs_JPEG/6928a210-5bed-11ec-8140-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_259/c4iX4_16395489502417t6GO_JPEG/1639548945543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['유체이탈자' CG메이킹 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Dec 2021 08:15:31 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_41/icz1n_1639120968432ysWzM_JPEG/d495523a-5989-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['만 년이 지나도 변하지 않는 게 있어' 개봉고지 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24016518</link>
-            <guid>https://tv.naver.com/v/24016518</guid>
-            <pubDate>Fri, 10 Dec 2021 08:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_96/yUPi1_1639120661885zikn0_JPEG/17267369-5989-11ec-a3dc-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
