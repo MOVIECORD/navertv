@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['경관의 피' 60초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24088666</link>
+            <guid>https://tv.naver.com/v/24088666</guid>
+            <pubDate>Wed, 15 Dec 2021 06:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_68/db2oo_1639546257696MXcMj_JPEG/7b41d7c0-5d67-11ec-9a6e-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['씽2게더' ‘A Sky Full Of Stars’ 뮤직비디오 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24088357</link>
+            <guid>https://tv.naver.com/v/24088357</guid>
+            <pubDate>Wed, 15 Dec 2021 06:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_48/ZVy08_163954559573409wrh_JPEG/7880d8fc-5d66-11ec-9ac7-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['해탄적일천' 무빙 포스터 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24088178</link>
             <guid>https://tv.naver.com/v/24088178</guid>
             <pubDate>Wed, 15 Dec 2021 05:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:00]]></content:encoded>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_15/9ckNN_163954514369418fKb_JPEG/4b963d45-5d65-11ec-9ac7-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 10 Dec 2021 08:15:31 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_96/yUPi1_1639120661885zikn0_JPEG/17267369-5989-11ec-a3dc-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨: 노 웨이 홈' 마지막 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014467</link>
-            <guid>https://tv.naver.com/v/24014467</guid>
-            <pubDate>Fri, 10 Dec 2021 06:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_129/HxO3o_1639115237054t5fvV_JPEG/77c330b6-597c-11ec-a74c-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹스맨: 퍼스트 에이전트' 무삭제 발레 스핀 액션 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014303</link>
-            <guid>https://tv.naver.com/v/24014303</guid>
-            <pubDate>Fri, 10 Dec 2021 06:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_110/mVChH_1639114906741zqnvD_JPEG/8a15b2da-597b-11ec-9e9c-48df379cc9e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
