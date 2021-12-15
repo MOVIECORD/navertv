@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 09:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 10:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/24094126</link>
             <guid>https://tv.naver.com/v/24094126</guid>
             <pubDate>Wed, 15 Dec 2021 09:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:00]]></content:encoded>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_221/imno2_1639559612253MbKwH_JPEG/2503b27d-5d87-11ec-92ae-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
