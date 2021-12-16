@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['타이거마스크' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24109979</link>
+            <guid>https://tv.naver.com/v/24109979</guid>
+            <pubDate>Thu, 16 Dec 2021 07:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_145/sLNFz_1639637661112AiPRK_JPEG/e31b7946-5e3c-11ec-b891-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사막을 건너 호수를 지나' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/24107867</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Dec 2021 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_242/GIeNG_1639447814337GrtFj_JPEG/da4c9aa3-5c82-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피부를 판 남자' 10분 하이라이트]]></title>
-            <link>https://tv.naver.com/v/24065888</link>
-            <guid>https://tv.naver.com/v/24065888</guid>
-            <pubDate>Tue, 14 Dec 2021 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[13:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_109/WWzEX_16394471201851cR0r_JPEG/117130a1-5c81-11ec-b39d-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
