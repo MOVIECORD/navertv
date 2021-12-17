@@ -4,9 +4,41 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 06:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 07:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['청춘적니' 무삭제컷#2 우리 사랑은 영원해]]></title>
+            <link>https://tv.naver.com/v/24129443</link>
+            <guid>https://tv.naver.com/v/24129443</guid>
+            <pubDate>Fri, 17 Dec 2021 07:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_105/DuddN_1639725148437XS0bo_JPEG/9194ae99-5f08-11ec-8ef1-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['노트르담' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24128993</link>
+            <guid>https://tv.naver.com/v/24128993</guid>
+            <pubDate>Fri, 17 Dec 2021 07:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_36/0qU9C_1639724129130wxpeN_JPEG/f9d47c08-5f05-11ec-81e6-a0369ff9545c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['로스트 걸: 잃어버린 딸' 예고편]]></title>
+            <link>https://tv.naver.com/v/24128770</link>
+            <guid>https://tv.naver.com/v/24128770</guid>
+            <pubDate>Fri, 17 Dec 2021 07:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_119/OJRdr_1639723602676vjGbN_JPEG/f767b771-5f04-11ec-a25c-505dac8c37f3_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['티탄' 뮤직 비디오]]></title>
+            <link>https://tv.naver.com/v/24128630</link>
+            <guid>https://tv.naver.com/v/24128630</guid>
+            <pubDate>Fri, 17 Dec 2021 07:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_246/gJv3Q_1639723227598nDdyV_JPEG/0c55a4d3-5f04-11ec-81e6-a0369ff9545c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['웨스트 사이드 스토리' 60초 Tonight 영상]]></title>
             <link>https://tv.naver.com/v/24123696</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 14 Dec 2021 06:15:51 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_243/uNsaz_1639462335925GvcIz_JPEG/aa71a8fd-5ca4-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 미공개 에필로그 영상]]></title>
-            <link>https://tv.naver.com/v/24070634</link>
-            <guid>https://tv.naver.com/v/24070634</guid>
-            <pubDate>Tue, 14 Dec 2021 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_207/hgG7t_1639461737074fNtBN_JPEG/d0612ed9-5ca2-11ec-8140-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 끝, 당신의 시작' 로맨스 영상]]></title>
-            <link>https://tv.naver.com/v/24070184</link>
-            <guid>https://tv.naver.com/v/24070184</guid>
-            <pubDate>Tue, 14 Dec 2021 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_257/KTUa8_1639460638167MgjEy_JPEG/c5784924-5ca0-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 끝, 당신의 시작' '아론', '노라' 커플 영상]]></title>
-            <link>https://tv.naver.com/v/24070107</link>
-            <guid>https://tv.naver.com/v/24070107</guid>
-            <pubDate>Tue, 14 Dec 2021 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_23/MyIhm_1639460477843DsTde_JPEG/66601beb-5ca0-11ec-9ee0-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 끝, 당신의 시작' 특별 영상]]></title>
-            <link>https://tv.naver.com/v/24070029</link>
-            <guid>https://tv.naver.com/v/24070029</guid>
-            <pubDate>Tue, 14 Dec 2021 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_124/JTCqj_1639460279010vrjdX_JPEG/d722f3a7-5c9f-11ec-92ae-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
