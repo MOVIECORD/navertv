@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 08:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 09:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['씽2게더' 드림 투게더 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24132219</link>
+            <guid>https://tv.naver.com/v/24132219</guid>
+            <pubDate>Fri, 17 Dec 2021 09:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_195/nLJ9m_163973173281622Tlg_JPEG/ed31250b-5f17-11ec-ace2-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신비한 동물들과 덤블도어의 비밀' Wizarding World 스페셜 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24131447</link>
+            <guid>https://tv.naver.com/v/24131447</guid>
+            <pubDate>Fri, 17 Dec 2021 09:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_230/8uyFD_1639729592800T7tH1_JPEG/769307d0-5f12-11ec-ab0b-246e963a464c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신비한 동물들과 덤블도어의 비밀' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24131290</link>
+            <guid>https://tv.naver.com/v/24131290</guid>
+            <pubDate>Fri, 17 Dec 2021 09:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_72/KFzV0_16397298132622BgNl_JPEG/89c93380-5f11-11ec-b40d-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['프랑스' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24131049</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 15 Dec 2021 03:13:21 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_219/5vVh5_1639535736119KRfxV_JPEG/6ca7d2d6-5d4f-11ec-8636-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['손오공: 더 파이널' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24084243</link>
-            <guid>https://tv.naver.com/v/24084243</guid>
-            <pubDate>Wed, 15 Dec 2021 02:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_110/YaHfo_1639534480086aWgN3_JPEG/af7daf34-5d4c-11ec-a3dc-246e963a464c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인생게임' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24084127</link>
-            <guid>https://tv.naver.com/v/24084127</guid>
-            <pubDate>Wed, 15 Dec 2021 02:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_103/Dbwia_1639534177391Nz4yC_JPEG/f03a0f94-5d4b-11ec-9dda-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['씽2게더' 씽나게 뮤직 큐! 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24070925</link>
-            <guid>https://tv.naver.com/v/24070925</guid>
-            <pubDate>Tue, 14 Dec 2021 07:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_186/RSIWq_1639462573380YrKax_JPEG/34c9c3bc-5ca5-11ec-9b44-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
