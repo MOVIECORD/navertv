@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 02:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 03:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 60초 Tonight 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24123696</link>
+            <guid>https://tv.naver.com/v/24123696</guid>
+            <pubDate>Fri, 17 Dec 2021 03:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_157/2aEzt_163970917060068v7c_JPEG/d1cf0d03-5ee2-11ec-9bef-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['특송' 끝장 추격 캐릭터 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24111590</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Dec 2021 06:15:51 GMT</pubDate>
             <content:encoded><![CDATA[0:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_124/JTCqj_1639460279010vrjdX_JPEG/d722f3a7-5c9f-11ec-92ae-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹스맨: 퍼스트 에이전트' 한국 스페셜 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24066974</link>
-            <guid>https://tv.naver.com/v/24066974</guid>
-            <pubDate>Tue, 14 Dec 2021 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_69/yv69o_16394505140620uGsO_JPEG/78a35394-5c88-11ec-9b44-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
