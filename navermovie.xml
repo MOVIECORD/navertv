@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 02:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 03:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['전설의 검' 예고편]]></title>
+            <link>https://tv.naver.com/v/24161722</link>
+            <guid>https://tv.naver.com/v/24161722</guid>
+            <pubDate>Mon, 20 Dec 2021 03:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_265/ICioH_1639967971090AeaUf_JPEG/d1f842c0-613d-11ec-a2fc-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['수퍼 소닉2' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/24161590</link>
+            <guid>https://tv.naver.com/v/24161590</guid>
+            <pubDate>Mon, 20 Dec 2021 03:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_112/z0vIJ_1639967514444z2wxu_JPEG/97d5b575-613c-11ec-b40d-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['갱경 떡삥이' 예고편]]></title>
             <link>https://tv.naver.com/v/24160603</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 15 Dec 2021 06:15:11 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_68/db2oo_1639546257696MXcMj_JPEG/7b41d7c0-5d67-11ec-9a6e-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['씽2게더' ‘A Sky Full Of Stars’ 뮤직비디오]]></title>
-            <link>https://tv.naver.com/v/24088357</link>
-            <guid>https://tv.naver.com/v/24088357</guid>
-            <pubDate>Wed, 15 Dec 2021 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_48/ZVy08_163954559573409wrh_JPEG/7880d8fc-5d66-11ec-9ac7-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해탄적일천' 무빙 포스터]]></title>
-            <link>https://tv.naver.com/v/24088178</link>
-            <guid>https://tv.naver.com/v/24088178</guid>
-            <pubDate>Wed, 15 Dec 2021 05:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_15/9ckNN_163954514369418fKb_JPEG/4b963d45-5d65-11ec-9ac7-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
