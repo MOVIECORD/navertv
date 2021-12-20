@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 06:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['리틀 뱀파이어' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24165407</link>
+            <guid>https://tv.naver.com/v/24165407</guid>
+            <pubDate>Mon, 20 Dec 2021 06:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_42/qZcAq_1639980830157W31Cz_JPEG/d2f0629d-615b-11ec-8ef1-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['필로포비아' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24165169</link>
+            <guid>https://tv.naver.com/v/24165169</guid>
+            <pubDate>Mon, 20 Dec 2021 06:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_239/rMzCU_1639980115970EQ4sv_JPEG/8a829557-6159-11ec-8cc8-a0369ff95678_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['10 아이덴티티' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24165039</link>
+            <guid>https://tv.naver.com/v/24165039</guid>
+            <pubDate>Mon, 20 Dec 2021 06:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_185/9lEt3_1639979760465hAQ3y_JPEG/75b85197-6159-11ec-bd92-246e963a49a8_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['메모리: 조작살인' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24165027</link>
+            <guid>https://tv.naver.com/v/24165027</guid>
+            <pubDate>Mon, 20 Dec 2021 06:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_257/G9QQW_1639979732466hBC1O_JPEG/606b96c0-6159-11ec-81e6-a0369ff9545c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전설의 검' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24161722</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 15 Dec 2021 08:15:50 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_12/4R9g6_1639556026698URPwN_JPEG/bae47755-5d7e-11ec-9d5b-a0369ff94f34_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['리틀 뱀파이어' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24091702</link>
-            <guid>https://tv.naver.com/v/24091702</guid>
-            <pubDate>Wed, 15 Dec 2021 08:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_154/CuuVh_1639553633205ibu0Q_JPEG/2894a9a7-5d79-11ec-9a33-505dac8c3721_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이 스틸 빌리브' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24091237</link>
-            <guid>https://tv.naver.com/v/24091237</guid>
-            <pubDate>Wed, 15 Dec 2021 08:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_81/FOJUR_1639552760645zpGUP_JPEG/b22ed335-5d76-11ec-b39d-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아멜리에' 장 피에르 주네 감독 축하 인사 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24089925</link>
-            <guid>https://tv.naver.com/v/24089925</guid>
-            <pubDate>Wed, 15 Dec 2021 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_109/8Dh4m_1639549300050yuHHL_JPEG/f24a3ddf-5d6e-11ec-b39d-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경관의 피' 60초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24088666</link>
-            <guid>https://tv.naver.com/v/24088666</guid>
-            <pubDate>Wed, 15 Dec 2021 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_68/db2oo_1639546257696MXcMj_JPEG/7b41d7c0-5d67-11ec-9a6e-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
