@@ -4,9 +4,41 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 06:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 07:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['성욕이 운다' 예고편]]></title>
+            <link>https://tv.naver.com/v/24183429</link>
+            <guid>https://tv.naver.com/v/24183429</guid>
+            <pubDate>Tue, 21 Dec 2021 07:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211221_168/WO2je_1640069829333y2Lfv_JPEG/1f192512-622b-11ec-9ac9-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['새엄마 발키리' 예고편]]></title>
+            <link>https://tv.naver.com/v/24183356</link>
+            <guid>https://tv.naver.com/v/24183356</guid>
+            <pubDate>Tue, 21 Dec 2021 07:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211221_238/2d61D_1640069651134zkHBM_JPEG/ac6807eb-622a-11ec-bd92-246e963a49a8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대물발킨 며늘님' 예고편]]></title>
+            <link>https://tv.naver.com/v/24183266</link>
+            <guid>https://tv.naver.com/v/24183266</guid>
+            <pubDate>Tue, 21 Dec 2021 07:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211221_194/WKl3v_1640069430681ljU3Q_JPEG/3276fd95-622a-11ec-badc-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['맛있는 치섹' 예고편]]></title>
+            <link>https://tv.naver.com/v/24183120</link>
+            <guid>https://tv.naver.com/v/24183120</guid>
+            <pubDate>Tue, 21 Dec 2021 07:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211221_24/08cJP_1640069106423951UE_JPEG/3781feaf-6229-11ec-badc-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['씽2게더' K-클레이 윤도현 합류 영상]]></title>
             <link>https://tv.naver.com/v/24181144</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 17 Dec 2021 03:13:12 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_157/2aEzt_163970917060068v7c_JPEG/d1cf0d03-5ee2-11ec-9bef-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 끝장 추격 캐릭터 예고편]]></title>
-            <link>https://tv.naver.com/v/24111590</link>
-            <guid>https://tv.naver.com/v/24111590</guid>
-            <pubDate>Thu, 16 Dec 2021 08:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_98/rmw9X_16396411481514F1r4_JPEG/b2c450e4-5e44-11ec-850b-a0369ff95ec0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['타이거마스크' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24109979</link>
-            <guid>https://tv.naver.com/v/24109979</guid>
-            <pubDate>Thu, 16 Dec 2021 07:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_145/sLNFz_1639637661112AiPRK_JPEG/e31b7946-5e3c-11ec-b891-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사막을 건너 호수를 지나' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/24107867</link>
-            <guid>https://tv.naver.com/v/24107867</guid>
-            <pubDate>Thu, 16 Dec 2021 06:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_231/ZNMSF_1639633018973lcM6r_JPEG/1f4c6a1d-5e32-11ec-a25c-505dac8c37f3_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사울 레이터: 인 노 그레이트 허리' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24107837</link>
-            <guid>https://tv.naver.com/v/24107837</guid>
-            <pubDate>Thu, 16 Dec 2021 06:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_100/09d8m_1639632961757ufmBp_JPEG/f96ecfbb-5e31-11ec-ace2-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
