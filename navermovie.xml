@@ -4,9 +4,33 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 00:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 02:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미니언즈2' 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/24197087</link>
+            <guid>https://tv.naver.com/v/24197087</guid>
+            <pubDate>Wed, 22 Dec 2021 02:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_77/Sgyqb_1640138353793dmEEh_JPEG/907f99e0-62ca-11ec-b891-246e963a4708_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['애쉬 래드 2: 황금성을 찾아서' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24196778</link>
+            <guid>https://tv.naver.com/v/24196778</guid>
+            <pubDate>Wed, 22 Dec 2021 02:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_186/G36DI_1640137238687s6p2S_JPEG/e86bb746-62c7-11ec-ab0b-246e963a464c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['페이백' 예고편]]></title>
+            <link>https://tv.naver.com/v/24196656</link>
+            <guid>https://tv.naver.com/v/24196656</guid>
+            <pubDate>Wed, 22 Dec 2021 02:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_191/B7K4J_1640136832600WdcDc_JPEG/ee742bfd-62c6-11ec-a273-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['성욕이 운다' 예고편]]></title>
             <link>https://tv.naver.com/v/24183429</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 17 Dec 2021 07:13:23 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_36/0qU9C_1639724129130wxpeN_JPEG/f9d47c08-5f05-11ec-81e6-a0369ff9545c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['로스트 걸: 잃어버린 딸' 예고편]]></title>
-            <link>https://tv.naver.com/v/24128770</link>
-            <guid>https://tv.naver.com/v/24128770</guid>
-            <pubDate>Fri, 17 Dec 2021 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_119/OJRdr_1639723602676vjGbN_JPEG/f767b771-5f04-11ec-a25c-505dac8c37f3_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['티탄' 뮤직 비디오]]></title>
-            <link>https://tv.naver.com/v/24128630</link>
-            <guid>https://tv.naver.com/v/24128630</guid>
-            <pubDate>Fri, 17 Dec 2021 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_246/gJv3Q_1639723227598nDdyV_JPEG/0c55a4d3-5f04-11ec-81e6-a0369ff9545c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 60초 Tonight 영상]]></title>
-            <link>https://tv.naver.com/v/24123696</link>
-            <guid>https://tv.naver.com/v/24123696</guid>
-            <pubDate>Fri, 17 Dec 2021 03:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_157/2aEzt_163970917060068v7c_JPEG/d1cf0d03-5ee2-11ec-9bef-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
