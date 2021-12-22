@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 08:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 09:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['심용결2: 신의 무덤' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24206631</link>
+            <guid>https://tv.naver.com/v/24206631</guid>
+            <pubDate>Wed, 22 Dec 2021 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_60/zIg0a_1640161948815e82tv_JPEG/9043eb9c-6301-11ec-9edd-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['칠드런 오브 워' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24205494</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Dec 2021 02:03:50 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211221_7/LQDIN_1640051913530dtJP4_JPEG/2438e36c-6201-11ec-8ef1-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신데렐라 2: 마법에 걸린 왕자' 신데렐라의 모험영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24169664</link>
-            <guid>https://tv.naver.com/v/24169664</guid>
-            <pubDate>Mon, 20 Dec 2021 10:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_294/iyJK2_1639992619482afvVX_JPEG/44bb9805-6177-11ec-a66d-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
