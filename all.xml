@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 06:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 07:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['숏버스 배우행' 배우행 메인예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24203876</link>
+            <guid>https://tv.naver.com/v/24203876</guid>
+            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_61/flEq8_1640157180275XE7wy_JPEG/2e78382e-62f6-11ec-9bef-a0369ff94ec8_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['숏버스 배우행' 배우행 메인예고편 short ver (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24203715</link>
+            <guid>https://tv.naver.com/v/24203715</guid>
+            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_215/r4XuT_1640156839837wXH1I_JPEG/a67249a3-62f5-11ec-9edd-a0369ff968b0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['숏버스 배우행' 배우행 김시선 투어 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24203603</link>
+            <guid>https://tv.naver.com/v/24203603</guid>
+            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_129/RTsvb_1640156623149rrEIR_JPEG/2e65b622-62f5-11ec-badc-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['숏버스 배우행' 배우행 김시선 투어 Short ver (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24203518</link>
+            <guid>https://tv.naver.com/v/24203518</guid>
+            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_256/S7CJN_1640156451120E2294_JPEG/b82bc0db-62f4-11ec-a273-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['긴 하루' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24202590</link>
+            <guid>https://tv.naver.com/v/24202590</guid>
+            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_297/PBM1U_1640154343954GqiBH_JPEG/e9c880d4-62ef-11ec-b40d-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아이 스틸 빌리브' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24202129</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 20 Dec 2021 09:14:04 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/uyiEY_1639990736428GXgO3_JPEG/eed4c4be-6172-11ec-98e2-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['리틀 뱀파이어' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24165407</link>
-            <guid>https://tv.naver.com/v/24165407</guid>
-            <pubDate>Mon, 20 Dec 2021 06:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_42/qZcAq_1639980830157W31Cz_JPEG/d2f0629d-615b-11ec-8ef1-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['필로포비아' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24165169</link>
-            <guid>https://tv.naver.com/v/24165169</guid>
-            <pubDate>Mon, 20 Dec 2021 06:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_239/rMzCU_1639980115970EQ4sv_JPEG/8a829557-6159-11ec-8cc8-a0369ff95678_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['10 아이덴티티' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24165039</link>
-            <guid>https://tv.naver.com/v/24165039</guid>
-            <pubDate>Mon, 20 Dec 2021 06:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_185/9lEt3_1639979760465hAQ3y_JPEG/75b85197-6159-11ec-bd92-246e963a49a8_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['메모리: 조작살인' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24165027</link>
-            <guid>https://tv.naver.com/v/24165027</guid>
-            <pubDate>Mon, 20 Dec 2021 06:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_257/G9QQW_1639979732466hBC1O_JPEG/606b96c0-6159-11ec-81e6-a0369ff9545c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['전설의 검' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24161722</link>
-            <guid>https://tv.naver.com/v/24161722</guid>
-            <pubDate>Mon, 20 Dec 2021 03:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_265/ICioH_1639967971090AeaUf_JPEG/d1f842c0-613d-11ec-a2fc-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
