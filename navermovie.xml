@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 07:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 08:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['칠드런 오브 워' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24205494</link>
+            <guid>https://tv.naver.com/v/24205494</guid>
+            <pubDate>Wed, 22 Dec 2021 08:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_26/MPVl4_1640159851608JBMkq_JPEG/a8976fac-62fc-11ec-a273-505dac8c3607_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['로스트 시티' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/24204287</link>
+            <guid>https://tv.naver.com/v/24204287</guid>
+            <pubDate>Wed, 22 Dec 2021 08:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_101/FRIkQ_1640157925725aDnUI_JPEG/c3b00743-62f7-11ec-912a-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['숏버스 배우행' 배우행 메인예고편]]></title>
             <link>https://tv.naver.com/v/24203876</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 20 Dec 2021 10:14:45 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_294/iyJK2_1639992619482afvVX_JPEG/44bb9805-6177-11ec-a66d-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신데렐라 2: 마법에 걸린 왕자' Secret 마법의 성 영상]]></title>
-            <link>https://tv.naver.com/v/24169446</link>
-            <guid>https://tv.naver.com/v/24169446</guid>
-            <pubDate>Mon, 20 Dec 2021 10:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_140/ouzPy_16399917711002rc4f_JPEG/efd161b8-6174-11ec-a66d-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하우스 오브 구찌' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24169184</link>
-            <guid>https://tv.naver.com/v/24169184</guid>
-            <pubDate>Mon, 20 Dec 2021 09:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/uyiEY_1639990736428GXgO3_JPEG/eed4c4be-6172-11ec-98e2-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
