@@ -4,9 +4,49 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 05:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 06:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아이 스틸 빌리브' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/24202129</link>
+            <guid>https://tv.naver.com/v/24202129</guid>
+            <pubDate>Wed, 22 Dec 2021 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_229/Xdhxq_1640153397717JIpdG_JPEG/b7067e50-62ed-11ec-b18f-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['타이거 우즈: 아이콘' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24202110</link>
+            <guid>https://tv.naver.com/v/24202110</guid>
+            <pubDate>Wed, 22 Dec 2021 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_112/OzEju_1640153355241K988t_JPEG/a1af1608-62ed-11ec-b40d-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['픽시' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24202083</link>
+            <guid>https://tv.naver.com/v/24202083</guid>
+            <pubDate>Wed, 22 Dec 2021 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_93/Q0mJ5_1640153287921aK1dc_JPEG/6e1da3e6-62ed-11ec-a66d-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['데스티벌' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24202064</link>
+            <guid>https://tv.naver.com/v/24202064</guid>
+            <pubDate>Wed, 22 Dec 2021 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_259/LIKFI_1640153232948wqtEk_JPEG/55f20c55-62ed-11ec-912a-505dac8c35ff_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 리뷰 스팟]]></title>
+            <link>https://tv.naver.com/v/24201712</link>
+            <guid>https://tv.naver.com/v/24201712</guid>
+            <pubDate>Wed, 22 Dec 2021 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_290/ocxSg_1640152456617JVUa1_JPEG/7130e8d1-62eb-11ec-bcc9-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['해피 뉴 이어' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/24200317</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 20 Dec 2021 03:14:02 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_265/ICioH_1639967971090AeaUf_JPEG/d1f842c0-613d-11ec-a2fc-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['수퍼 소닉2' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/24161590</link>
-            <guid>https://tv.naver.com/v/24161590</guid>
-            <pubDate>Mon, 20 Dec 2021 03:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_112/z0vIJ_1639967514444z2wxu_JPEG/97d5b575-613c-11ec-b40d-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갱경 떡삥이' 예고편]]></title>
-            <link>https://tv.naver.com/v/24160603</link>
-            <guid>https://tv.naver.com/v/24160603</guid>
-            <pubDate>Mon, 20 Dec 2021 02:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_267/89JHM_1639964129133xPXHs_JPEG/dc229489-6134-11ec-b891-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['팬텀: 더 뮤지컬 라이브' 넘버 하이라이트 영상]]></title>
-            <link>https://tv.naver.com/v/24160360</link>
-            <guid>https://tv.naver.com/v/24160360</guid>
-            <pubDate>Mon, 20 Dec 2021 02:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_28/Y7hDe_1639963114675FFpMP_JPEG/4a1323a7-6132-11ec-9bef-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['언차티드' 1차 예고편]]></title>
-            <link>https://tv.naver.com/v/24160284</link>
-            <guid>https://tv.naver.com/v/24160284</guid>
-            <pubDate>Mon, 20 Dec 2021 02:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_30/63EvG_1639962783230Ly43D_JPEG/e7eca4bd-6131-11ec-badc-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해적: 도깨비 깃발' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/24132444</link>
-            <guid>https://tv.naver.com/v/24132444</guid>
-            <pubDate>Fri, 17 Dec 2021 10:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_138/hwaIv_1639732592312Hgrjg_JPEG/d2066c1e-5f19-11ec-9c5c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
