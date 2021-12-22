@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해피 뉴 이어' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24200317</link>
+            <guid>https://tv.naver.com/v/24200317</guid>
+            <pubDate>Wed, 22 Dec 2021 05:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_156/hBfsp_1640149361527UgwzC_JPEG/1a570a99-62e4-11ec-badc-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹메이커' 무비토크 FULL 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24197969</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Dec 2021 10:14:16 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_138/hwaIv_1639732592312Hgrjg_JPEG/d2066c1e-5f19-11ec-9c5c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['씽2게더' 드림 투게더 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24132219</link>
-            <guid>https://tv.naver.com/v/24132219</guid>
-            <pubDate>Fri, 17 Dec 2021 09:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_195/nLJ9m_163973173281622Tlg_JPEG/ed31250b-5f17-11ec-ace2-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
