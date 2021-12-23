@@ -4,9 +4,33 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 05:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 06:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비올레타' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24221963</link>
+            <guid>https://tv.naver.com/v/24221963</guid>
+            <pubDate>Thu, 23 Dec 2021 06:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_167/m8Cye_1640238049799mWz1g_JPEG/c028556e-63b2-11ec-b18f-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 레이첼 지글러 캐스팅 영상]]></title>
+            <link>https://tv.naver.com/v/24221748</link>
+            <guid>https://tv.naver.com/v/24221748</guid>
+            <pubDate>Thu, 23 Dec 2021 06:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_107/7ilyR_1640237614275RT7SR_JPEG/c5dba539-63b1-11ec-98e2-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['클리포드 더 빅 레드 독' 홀리데이 예고편]]></title>
+            <link>https://tv.naver.com/v/24221516</link>
+            <guid>https://tv.naver.com/v/24221516</guid>
+            <pubDate>Thu, 23 Dec 2021 06:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_59/GLnO9_1640237142649wDM01_JPEG/ac3019bd-63b0-11ec-b40d-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['심용결2: 신의 무덤' 예고편]]></title>
             <link>https://tv.naver.com/v/24206631</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 21 Dec 2021 06:16:14 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211221_43/IgbuX_1640064035448kibxt_JPEG/f8fe14fc-621c-11ec-bd92-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안테벨룸' 모션 포스터]]></title>
-            <link>https://tv.naver.com/v/24180829</link>
-            <guid>https://tv.naver.com/v/24180829</guid>
-            <pubDate>Tue, 21 Dec 2021 05:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211221_71/l8OO5_16400631752268RMgF_JPEG/9a49322d-621b-11ec-bcc9-a0369ff952f4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어나더 라운드' 담당지ㅡㄱㅏ ㅊㅟ혀서 만드르 영상]]></title>
-            <link>https://tv.naver.com/v/24180737</link>
-            <guid>https://tv.naver.com/v/24180737</guid>
-            <pubDate>Tue, 21 Dec 2021 05:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211221_28/caBtX_1640062918413IMvSo_JPEG/0e86150a-621b-11ec-ace2-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미싱타는 여자들' 1차 예고편]]></title>
-            <link>https://tv.naver.com/v/24177719</link>
-            <guid>https://tv.naver.com/v/24177719</guid>
-            <pubDate>Tue, 21 Dec 2021 02:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211221_7/LQDIN_1640051913530dtJP4_JPEG/2438e36c-6201-11ec-8ef1-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
