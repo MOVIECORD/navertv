@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 06:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['레지던트 이블: 라쿤시티' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24244232</link>
+            <guid>https://tv.naver.com/v/24244232</guid>
+            <pubDate>Fri, 24 Dec 2021 06:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_26/bgHKo_1640324006534B86uC_PNG/1640323993617.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['해적: 도깨비 깃발' 키워드 제작기 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24238776</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Dec 2021 03:14:29 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_290/SvpgJ_1640139432501SGoYB_JPEG/254d8e12-62cd-11ec-b25e-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불량탐정 캠코인' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24197354</link>
-            <guid>https://tv.naver.com/v/24197354</guid>
-            <pubDate>Wed, 22 Dec 2021 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_146/EXfwa_1640139254982CnkqA_JPEG/a9969092-62cc-11ec-a25c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
