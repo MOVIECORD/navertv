@@ -4,9 +4,17 @@
         <title>방구석1열 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 06:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 07:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방구석 1열 188회 예고편]]></title>
+            <link>https://tv.naver.com/v/24275227</link>
+            <guid>https://tv.naver.com/v/24275227</guid>
+            <pubDate>Sun, 26 Dec 2021 07:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211226_159/NbJTT_1640501217791EncPB_JPEG/20211226_153529_606_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방구석 1열 187회 예고편]]></title>
             <link>https://tv.naver.com/v/24152151</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Dec 2021 08:17:42 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211003_42/3siDj_1633238862058R7ol8_JPEG/20211003_140350_131_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감탄 또 감탄😲 영화 〈황진이〉에 담긴 '금강산'의 절경들 | JTBC 211003 방송]]></title>
-            <link>https://tv.naver.com/v/22760072</link>
-            <guid>https://tv.naver.com/v/22760072</guid>
-            <pubDate>Mon, 20 Dec 2021 08:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_117/fj0ae_16332379090043Ps08_JPEG/20211003_135725_612_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
