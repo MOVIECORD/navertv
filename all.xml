@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 06:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 08:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 레전드 뮤직 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24292782</link>
+            <guid>https://tv.naver.com/v/24292782</guid>
+            <pubDate>Mon, 27 Dec 2021 08:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_275/i4PDN_1640588337505hMsOh_JPEG/5bd7bcc2-66e2-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 안셀 엘고트 캐스팅 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24292667</link>
+            <guid>https://tv.naver.com/v/24292667</guid>
+            <pubDate>Mon, 27 Dec 2021 08:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_81/LF4xA_1640588133915GuDAg_JPEG/dddb640f-66e1-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['엔드게임: 나는 킬러다' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24292365</link>
+            <guid>https://tv.naver.com/v/24292365</guid>
+            <pubDate>Mon, 27 Dec 2021 08:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_267/vAqF4_16405875190032M2yi_JPEG/64aeafe0-66e0-11ec-93de-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 천재 추리 탐정 셜록홈즈' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24290200</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_129/RTsvb_1640156623149rrEIR_JPEG/2e65b622-62f5-11ec-badc-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['숏버스 배우행' 배우행 김시선 투어 Short ver (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24203518</link>
-            <guid>https://tv.naver.com/v/24203518</guid>
-            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_256/S7CJN_1640156451120E2294_JPEG/b82bc0db-62f4-11ec-a273-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['긴 하루' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24202590</link>
-            <guid>https://tv.naver.com/v/24202590</guid>
-            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_297/PBM1U_1640154343954GqiBH_JPEG/e9c880d4-62ef-11ec-b40d-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이 스틸 빌리브' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24202129</link>
-            <guid>https://tv.naver.com/v/24202129</guid>
-            <pubDate>Wed, 22 Dec 2021 06:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_229/Xdhxq_1640153397717JIpdG_JPEG/b7067e50-62ed-11ec-b18f-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
