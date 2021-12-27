@@ -4,9 +4,41 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 02:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 04:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['청춘적니' 무삭제컷#3 난 네거야]]></title>
+            <link>https://tv.naver.com/v/24287269</link>
+            <guid>https://tv.naver.com/v/24287269</guid>
+            <pubDate>Mon, 27 Dec 2021 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_22/FvEgE_1640573927596wH1rN_JPEG/a2f211db-66c0-11ec-ad60-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['만 년이 지나도 변하지 않는 게 있어' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24287104</link>
+            <guid>https://tv.naver.com/v/24287104</guid>
+            <pubDate>Mon, 27 Dec 2021 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_142/f9zBs_1640573406630MChpD_JPEG/6ad0381d-66bf-11ec-93de-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['걸즈 앤 판처 최종장 제3화' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24286652</link>
+            <guid>https://tv.naver.com/v/24286652</guid>
+            <pubDate>Mon, 27 Dec 2021 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_265/t4HW1_1640572030853hHIVK_JPEG/6769e298-66bc-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹스맨: 퍼스트 에이전트' 리뷰 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/24286463</link>
+            <guid>https://tv.naver.com/v/24286463</guid>
+            <pubDate>Mon, 27 Dec 2021 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_216/AIFgl_1640571489558yLWcI_JPEG/ff288b79-66ba-11ec-9d44-48df37ae3dc4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['레지던트 이블: 라쿤시티' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/24244232</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 22 Dec 2021 06:17:24 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_290/ocxSg_1640152456617JVUa1_JPEG/7130e8d1-62eb-11ec-bcc9-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 뉴 이어' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24200317</link>
-            <guid>https://tv.naver.com/v/24200317</guid>
-            <pubDate>Wed, 22 Dec 2021 05:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_156/hBfsp_1640149361527UgwzC_JPEG/1a570a99-62e4-11ec-badc-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 무비토크 FULL 영상]]></title>
-            <link>https://tv.naver.com/v/24197969</link>
-            <guid>https://tv.naver.com/v/24197969</guid>
-            <pubDate>Wed, 22 Dec 2021 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:17:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_160/pnUXs_1640141246775BMUHn_JPEG/46f9703a-62ce-11ec-b891-246e963a4708_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['씽2게더' 크리씽마스 그리팅 영상]]></title>
-            <link>https://tv.naver.com/v/24197489</link>
-            <guid>https://tv.naver.com/v/24197489</guid>
-            <pubDate>Wed, 22 Dec 2021 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_224/r5VjK_1640139759707WrFsB_JPEG/ec4b7a9f-62cd-11ec-9edd-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['밀접접촉' 예고편]]></title>
-            <link>https://tv.naver.com/v/24197413</link>
-            <guid>https://tv.naver.com/v/24197413</guid>
-            <pubDate>Wed, 22 Dec 2021 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_290/SvpgJ_1640139432501SGoYB_JPEG/254d8e12-62cd-11ec-b25e-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
