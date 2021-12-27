@@ -4,9 +4,41 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 08:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 09:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['타이거마스크' 뮤직비디오]]></title>
+            <link>https://tv.naver.com/v/24296427</link>
+            <guid>https://tv.naver.com/v/24296427</guid>
+            <pubDate>Mon, 27 Dec 2021 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_203/JTABZ_1640595239806JXTiv_JPEG/4909f21b-66f2-11ec-8a84-a0369ff963bc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹덤스쿨 - 어둠 속의 그림자' 예고편]]></title>
+            <link>https://tv.naver.com/v/24296112</link>
+            <guid>https://tv.naver.com/v/24296112</guid>
+            <pubDate>Mon, 27 Dec 2021 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_163/yi7Dn_1640594572723KoBOo_JPEG/d72e6996-66f0-11ec-810a-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['프랑스' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24295913</link>
+            <guid>https://tv.naver.com/v/24295913</guid>
+            <pubDate>Mon, 27 Dec 2021 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_135/Ji12p_1640594253199yaTKI_JPEG/fcdcfae0-66ef-11ec-9576-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['걸 위드 더 카메라' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24295345</link>
+            <guid>https://tv.naver.com/v/24295345</guid>
+            <pubDate>Mon, 27 Dec 2021 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_211/1Oc30_1640593173668pPqaA_JPEG/a91b661f-66ed-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['웨스트 사이드 스토리' 레전드 뮤직 예고편]]></title>
             <link>https://tv.naver.com/v/24292782</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 22 Dec 2021 08:16:44 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_26/MPVl4_1640159851608JBMkq_JPEG/a8976fac-62fc-11ec-a273-505dac8c3607_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['로스트 시티' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/24204287</link>
-            <guid>https://tv.naver.com/v/24204287</guid>
-            <pubDate>Wed, 22 Dec 2021 08:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_101/FRIkQ_1640157925725aDnUI_JPEG/c3b00743-62f7-11ec-912a-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['숏버스 배우행' 배우행 메인예고편]]></title>
-            <link>https://tv.naver.com/v/24203876</link>
-            <guid>https://tv.naver.com/v/24203876</guid>
-            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_61/flEq8_1640157180275XE7wy_JPEG/2e78382e-62f6-11ec-9bef-a0369ff94ec8_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['숏버스 배우행' 배우행 메인예고편 short ver]]></title>
-            <link>https://tv.naver.com/v/24203715</link>
-            <guid>https://tv.naver.com/v/24203715</guid>
-            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_215/r4XuT_1640156839837wXH1I_JPEG/a67249a3-62f5-11ec-9edd-a0369ff968b0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['숏버스 배우행' 배우행 김시선 투어]]></title>
-            <link>https://tv.naver.com/v/24203603</link>
-            <guid>https://tv.naver.com/v/24203603</guid>
-            <pubDate>Wed, 22 Dec 2021 07:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_129/RTsvb_1640156623149rrEIR_JPEG/2e65b622-62f5-11ec-badc-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
