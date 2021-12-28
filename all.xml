@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 06:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 리타 모레노 캐스팅 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24314324</link>
+            <guid>https://tv.naver.com/v/24314324</guid>
+            <pubDate>Tue, 28 Dec 2021 07:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_216/zGJN2_1640673520084n6A2b_JPEG/4d68c091-67a8-11ec-8a84-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 데이비드 알바즈 캐스팅 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24314096</link>
+            <guid>https://tv.naver.com/v/24314096</guid>
+            <pubDate>Tue, 28 Dec 2021 07:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_153/aLl5B_1640673144782DvVWt_JPEG/afcab747-67a7-11ec-a789-a0369ff94f34_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 아리아나 데보스 캐스팅 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24313982</link>
+            <guid>https://tv.naver.com/v/24313982</guid>
+            <pubDate>Tue, 28 Dec 2021 07:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_200/mtPKH_1640672888543qrGBw_JPEG/10b26a65-67a7-11ec-84bc-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['램' 누미 라파스 인터뷰 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24313749</link>
+            <guid>https://tv.naver.com/v/24313749</guid>
+            <pubDate>Tue, 28 Dec 2021 07:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_164/yYsSh_1640672379605OYNoI_JPEG/b8cb791b-67a5-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['씽2게더' 꿈의 스테이지 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24313257</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 24 Dec 2021 02:00:29 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211224_105/RZlJ2_1640310497247M8G8J_JPEG/4d855cfc-645b-11ec-b908-48df37ae3fca_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노웨어 스페셜' 무삭제 클립(죽음에 대하여) (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24229290</link>
-            <guid>https://tv.naver.com/v/24229290</guid>
-            <pubDate>Thu, 23 Dec 2021 10:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_60/x09oa_16402510542614DzOe_JPEG/16845a4d-63d1-11ec-908e-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유혹의 한계' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24228977</link>
-            <guid>https://tv.naver.com/v/24228977</guid>
-            <pubDate>Thu, 23 Dec 2021 09:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_162/GKbtE_1640250185611eP4Jm_JPEG/16c0d98f-63cf-11ec-9a83-a0369ff968b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['타이거마스크' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24228606</link>
-            <guid>https://tv.naver.com/v/24228606</guid>
-            <pubDate>Thu, 23 Dec 2021 09:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_121/yfLZJ_1640249353629QazbE_JPEG/1fcbfb1f-63cd-11ec-846d-246e963a464c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경관의 피' 제작기 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24228327</link>
-            <guid>https://tv.naver.com/v/24228327</guid>
-            <pubDate>Thu, 23 Dec 2021 09:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_125/Jwqlm_1640248759536L61Yj_JPEG/a8143413-63cb-11ec-9bef-a0369ff94ec8_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
