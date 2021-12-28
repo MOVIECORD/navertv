@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 14:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 15:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_265/t4HW1_1640572030853hHIVK_JPEG/6769e298-66bc-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21598134</link>
+            <guid>https://tv.naver.com/v/21598134</guid>
+            <pubDate>Tue, 28 Dec 2021 15:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_53/oE1Je_1627540983377YFnnO_JPEG/1627540930224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/21598102</link>
             <guid>https://tv.naver.com/v/21598102</guid>
@@ -262,6 +270,22 @@
             <pubDate>Tue, 14 Dec 2021 14:12:29 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210729_259/GbLvP_1627540634815HOtOy_JPEG/1627540446428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] Sigh of sighs (연출 김보성)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21597921</link>
+            <guid>https://tv.naver.com/v/21597921</guid>
+            <pubDate>Tue, 28 Dec 2021 15:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_164/S9QFi_1627540390151SF8Fv_JPEG/1627540292519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] (OO) (연출 오서로)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/21597860</link>
+            <guid>https://tv.naver.com/v/21597860</guid>
+            <pubDate>Tue, 28 Dec 2021 15:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_242/uc1Wk_1627540244866MusPt_JPEG/1627539999677.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 엄마와 뻐꾸기 시계 (연출 유재희, 민지혜)_하이라이트 (네이버 인디극장 ─ 네이버TV)]]></title>
@@ -342,30 +366,6 @@
             <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210729_29/ayiBh_1627538509274zux9H_JPEG/cd8410ab-f031-11eb-8c45-505dac8c381b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] Sigh of sighs (연출 김보성) (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21596058</link>
-            <guid>https://tv.naver.com/v/21596058</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_255/TwimH_1627535837989rcFzu_JPEG/06ce85b1-f02b-11eb-b44a-48df379cca40_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배) (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21595988</link>
-            <guid>https://tv.naver.com/v/21595988</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_2/pletz_1627535707973GcDY5_JPEG/1627535650545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] (OO) (연출 오서로) (네이버 인디극장 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21595954</link>
-            <guid>https://tv.naver.com/v/21595954</guid>
-            <pubDate>Sun, 28 Nov 2021 19:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[6:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_262/EL0iw_1627535629186DpKV9_JPEG/1627535542902.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[네이버 인디극장X오렌지필름] 컨테이너 (연출 김세인)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
