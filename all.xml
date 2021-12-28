@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 02:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['닥터 스트레인지: 대혼돈의 멀티버스' 스페셜 티저 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24308003</link>
+            <guid>https://tv.naver.com/v/24308003</guid>
+            <pubDate>Tue, 28 Dec 2021 02:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_42/PNVGd_1640656983016oSP5a_JPEG/bfca2207-6781-11ec-b8bc-246e963a4708_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스파이더맨: 노 웨이 홈' 무삭제 클립 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24307048</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Dec 2021 06:16:47 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211223_107/7ilyR_1640237614275RT7SR_JPEG/c5dba539-63b1-11ec-98e2-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['클리포드 더 빅 레드 독' 홀리데이 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24221516</link>
-            <guid>https://tv.naver.com/v/24221516</guid>
-            <pubDate>Thu, 23 Dec 2021 06:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_59/GLnO9_1640237142649wDM01_JPEG/ac3019bd-63b0-11ec-b40d-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
