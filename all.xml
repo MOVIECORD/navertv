@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 00:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 02:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스파이더맨: 노 웨이 홈' 무삭제 클립 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24307048</link>
+            <guid>https://tv.naver.com/v/24307048</guid>
+            <pubDate>Tue, 28 Dec 2021 02:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_98/jrlio_1640654032413oAj6k_JPEG/d1de40be-6779-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['특송' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24307011</link>
+            <guid>https://tv.naver.com/v/24307011</guid>
+            <pubDate>Tue, 28 Dec 2021 02:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_222/1CwNG_1640653894478u3MfM_JPEG/ab87fe58-677a-11ec-a42f-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['타이거마스크' 뮤직비디오 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24296427</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 23 Dec 2021 06:16:47 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211223_59/GLnO9_1640237142649wDM01_JPEG/ac3019bd-63b0-11ec-b40d-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['심용결2: 신의 무덤' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24206631</link>
-            <guid>https://tv.naver.com/v/24206631</guid>
-            <pubDate>Wed, 22 Dec 2021 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_60/zIg0a_1640161948815e82tv_JPEG/9043eb9c-6301-11ec-9edd-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['칠드런 오브 워' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24205494</link>
-            <guid>https://tv.naver.com/v/24205494</guid>
-            <pubDate>Wed, 22 Dec 2021 08:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_26/MPVl4_1640159851608JBMkq_JPEG/a8976fac-62fc-11ec-a273-505dac8c3607_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 토요일 다세대 주택 (연출 전승배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
