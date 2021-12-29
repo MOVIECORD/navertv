@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 00:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 02:01:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신용문객잔3' 예고편]]></title>
+            <link>https://tv.naver.com/v/24327339</link>
+            <guid>https://tv.naver.com/v/24327339</guid>
+            <pubDate>Wed, 29 Dec 2021 02:00:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_234/o1HRs_1640740124571uxHp2_JPEG/8d583b96-6843-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오리지널 갱스터' 예고편]]></title>
             <link>https://tv.naver.com/v/24317254</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 05:14:17 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_142/f9zBs_1640573406630MChpD_JPEG/6ad0381d-66bf-11ec-93de-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['걸즈 앤 판처 최종장 제3화' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24286652</link>
-            <guid>https://tv.naver.com/v/24286652</guid>
-            <pubDate>Mon, 27 Dec 2021 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_265/t4HW1_1640572030853hHIVK_JPEG/6769e298-66bc-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
