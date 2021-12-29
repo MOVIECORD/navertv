@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['전장의 피아니스트' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24338327</link>
+            <guid>https://tv.naver.com/v/24338327</guid>
+            <pubDate>Wed, 29 Dec 2021 09:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_158/65t2G_1640768673895iNBai_JPEG/027c000b-6886-11ec-9d44-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['노웨어 스페셜' 무삭제 클립(생일파티)]]></title>
             <link>https://tv.naver.com/v/24337047</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 09:16:04 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_211/1Oc30_1640593173668pPqaA_JPEG/a91b661f-66ed-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 레전드 뮤직 예고편]]></title>
-            <link>https://tv.naver.com/v/24292782</link>
-            <guid>https://tv.naver.com/v/24292782</guid>
-            <pubDate>Mon, 27 Dec 2021 08:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_275/i4PDN_1640588337505hMsOh_JPEG/5bd7bcc2-66e2-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
