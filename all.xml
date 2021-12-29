@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 07:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 08:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['노웨어 스페셜' 무삭제 클립(생일파티) (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24337047</link>
+            <guid>https://tv.naver.com/v/24337047</guid>
+            <pubDate>Wed, 29 Dec 2021 08:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_149/u8fBp_1640765399258U3Uf4_JPEG/2a191e79-687e-11ec-a789-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 배트맨' 2차 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24334680</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 08:16:52 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_275/i4PDN_1640588337505hMsOh_JPEG/5bd7bcc2-66e2-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 안셀 엘고트 캐스팅 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24292667</link>
-            <guid>https://tv.naver.com/v/24292667</guid>
-            <pubDate>Mon, 27 Dec 2021 08:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_81/LF4xA_1640588133915GuDAg_JPEG/dddb640f-66e1-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
