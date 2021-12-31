@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 04:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['천기검' 예고편]]></title>
+            <link>https://tv.naver.com/v/24372348</link>
+            <guid>https://tv.naver.com/v/24372348</guid>
+            <pubDate>Fri, 31 Dec 2021 05:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_233/OwxOZ_1640927456786Fjqaw_JPEG/9caacb2d-69f7-11ec-9576-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['안테벨룸' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/24370222</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Dec 2021 06:16:28 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_255/vkd7l_16406692865168olI8_JPEG/dceee484-679e-11ec-8a02-505dac8c35ff_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아웃브레이크 호텔' 예고편]]></title>
-            <link>https://tv.naver.com/v/24309128</link>
-            <guid>https://tv.naver.com/v/24309128</guid>
-            <pubDate>Tue, 28 Dec 2021 03:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_180/rQwuy_1640660199974PXdwa_JPEG/8172132c-6789-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
