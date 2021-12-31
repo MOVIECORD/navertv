@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 08:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['블랙 엠페러' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24375708</link>
+            <guid>https://tv.naver.com/v/24375708</guid>
+            <pubDate>Fri, 31 Dec 2021 08:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_95/hbsB8_1640938372388WoGiX_JPEG/56f5a47f-6a11-11ec-b8bc-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹메이커' 리뷰 30초 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24375279</link>
+            <guid>https://tv.naver.com/v/24375279</guid>
+            <pubDate>Fri, 31 Dec 2021 08:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_186/006LJ_1640936702958KXesg_JPEG/48138347-6a0d-11ec-b776-246e963a49a8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹메이커' 캐릭터 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24375205</link>
+            <guid>https://tv.naver.com/v/24375205</guid>
+            <pubDate>Fri, 31 Dec 2021 08:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_239/r0jYI_1640936430633ume10_JPEG/1640936265491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['글래디에이터 썬더' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24372767</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 28 Dec 2021 06:16:28 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_264/eYwDM_1640671392284FQXFW_JPEG/7722284a-67a3-11ec-9005-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해적: 도깨비 깃발' 캐릭터 코멘터리 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24312368</link>
-            <guid>https://tv.naver.com/v/24312368</guid>
-            <pubDate>Tue, 28 Dec 2021 06:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_221/UuRZd_16406780221661OUx1_JPEG/aedcacaa-67b2-11ec-908e-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스피드 : 레이스 1' 런칭 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24312347</link>
-            <guid>https://tv.naver.com/v/24312347</guid>
-            <pubDate>Tue, 28 Dec 2021 06:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_136/fMxlc_1640669367771bcPXg_JPEG/10d331fe-679f-11ec-8a04-505dac8c3639_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['프라이빗 레슨' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24312331</link>
-            <guid>https://tv.naver.com/v/24312331</guid>
-            <pubDate>Tue, 28 Dec 2021 06:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_108/CCWMR_1640669326004wtIDE_JPEG/f4c3a96c-679e-11ec-8a02-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
