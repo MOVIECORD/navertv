@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['피그' 런칭 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24407374</link>
+            <guid>https://tv.naver.com/v/24407374</guid>
+            <pubDate>Mon, 03 Jan 2022 06:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_230/LyDLX_1641190159476RiDgA_JPEG/78305638-6c5b-11ec-a789-a0369ff94f34_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['렉트' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24407220</link>
+            <guid>https://tv.naver.com/v/24407220</guid>
+            <pubDate>Mon, 03 Jan 2022 06:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_67/GlN4H_1641189753164xtQnk_JPEG/3c9a150a-6c5a-11ec-b908-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['특송' 박소담 액션 질주 메이킹 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24406934</link>
+            <guid>https://tv.naver.com/v/24406934</guid>
+            <pubDate>Mon, 03 Jan 2022 06:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_260/9ZBbD_1641189047029oj4Px_JPEG/cf21e6c8-6c58-11ec-b776-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['도쿄 리벤저스' 배우 Q&A 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24403056</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 05:13:38 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_50/F3lt5_1640753575593xu9n1_JPEG/f5a0eaba-6862-11ec-9a83-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' Tonight 뮤직 프로필 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24331756</link>
-            <guid>https://tv.naver.com/v/24331756</guid>
-            <pubDate>Wed, 29 Dec 2021 05:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_55/xNl10_1640753345299sW3AE_JPEG/5513d73a-6862-11ec-84bc-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신용문객잔3' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24327339</link>
-            <guid>https://tv.naver.com/v/24327339</guid>
-            <pubDate>Wed, 29 Dec 2021 02:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_234/o1HRs_1640740124571uxHp2_JPEG/8d583b96-6843-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오리지널 갱스터' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24317254</link>
-            <guid>https://tv.naver.com/v/24317254</guid>
-            <pubDate>Tue, 28 Dec 2021 09:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_118/mCNxC_1640680353036Dc9U1_JPEG/546214b0-67b8-11ec-810a-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
