@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 09:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 10:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,7 +176,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_142/1YdbR_1640913097196Ei6QL_JPEG/80e4aaaa-69d6-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['웨스트 사이드 스토리' TONIGHT 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <title><![CDATA['웨스트 사이드 스토리' tonight 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24368176</link>
             <guid>https://tv.naver.com/v/24368176</guid>
             <pubDate>Fri, 31 Dec 2021 02:03:11 GMT</pubDate>
