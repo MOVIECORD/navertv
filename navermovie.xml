@@ -4,9 +4,33 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 06:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹메이커' 킹메이커의 조건 영상]]></title>
+            <link>https://tv.naver.com/v/24444055</link>
+            <guid>https://tv.naver.com/v/24444055</guid>
+            <pubDate>Wed, 05 Jan 2022 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_1/lSoJc_1641363257304vS8XP_JPEG/1641363061837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['황실수사대' 예고편]]></title>
+            <link>https://tv.naver.com/v/24443650</link>
+            <guid>https://tv.naver.com/v/24443650</guid>
+            <pubDate>Wed, 05 Jan 2022 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_107/xIxFR_16413622719436lpDu_JPEG/21f70992-6dec-11ec-ad60-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['수호무적' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24443473</link>
+            <guid>https://tv.naver.com/v/24443473</guid>
+            <pubDate>Wed, 05 Jan 2022 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_34/rOisM_1641361908528PGcWQ_JPEG/72ff5177-6deb-11ec-a42f-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아' 4DX 예고편]]></title>
             <link>https://tv.naver.com/v/24441672</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 02:03:11 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_86/SMEDb_1640914217772nu5VY_JPEG/0e099036-69d9-11ec-be2f-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피드백' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/24368514</link>
-            <guid>https://tv.naver.com/v/24368514</guid>
-            <pubDate>Fri, 31 Dec 2021 02:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_182/VRKuP_1640913864393oid8e_JPEG/40399314-69d8-11ec-9576-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['램' 누미 라파스 한국 개봉축하 영상]]></title>
-            <link>https://tv.naver.com/v/24368379</link>
-            <guid>https://tv.naver.com/v/24368379</guid>
-            <pubDate>Fri, 31 Dec 2021 02:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_142/1YdbR_1640913097196Ei6QL_JPEG/80e4aaaa-69d6-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' tonight 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/24368176</link>
-            <guid>https://tv.naver.com/v/24368176</guid>
-            <pubDate>Fri, 31 Dec 2021 02:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_57/D6aDk_1640912066368YrLoq_JPEG/f1ac2755-69d3-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
