@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 09:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 10:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['특송' R.P.M 제작기 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24469693</link>
+            <guid>https://tv.naver.com/v/24469693</guid>
+            <pubDate>Thu, 06 Jan 2022 10:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_249/zvzBd_1641460397986caCyk_JPEG/8c590625-6ed0-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['무사: 일대종사' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24469563</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 10:14:07 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_63/CTGhj_1640942607830qaXWd_JPEG/34441128-6a1b-11ec-ad60-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노 서치 띵 에즈 몬스터' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24375862</link>
-            <guid>https://tv.naver.com/v/24375862</guid>
-            <pubDate>Fri, 31 Dec 2021 09:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_79/587Qi_164093896759053Kfw_JPEG/ad83478a-6a12-11ec-8a04-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
