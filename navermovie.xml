@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 08:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['극장판 천재 추리 탐정 셜록홈즈' [알.쓸.과학] 영상]]></title>
+            <link>https://tv.naver.com/v/24467490</link>
+            <guid>https://tv.naver.com/v/24467490</guid>
+            <pubDate>Thu, 06 Jan 2022 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_249/q5GV4_1641454976787J4HNj_JPEG/26a53841-6ec4-11ec-8cee-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['나일 강의 죽음' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/24466768</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 09:13:46 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_66/bjF7O_1640938592468n7GFA_JPEG/ce22110c-6a11-11ec-bf52-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['블랙 엠페러' 예고편]]></title>
-            <link>https://tv.naver.com/v/24375708</link>
-            <guid>https://tv.naver.com/v/24375708</guid>
-            <pubDate>Fri, 31 Dec 2021 08:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_95/hbsB8_1640938372388WoGiX_JPEG/56f5a47f-6a11-11ec-b8bc-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
