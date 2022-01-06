@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 05:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 06:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['레지던트 이블: 라쿤시티' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24465366</link>
+            <guid>https://tv.naver.com/v/24465366</guid>
+            <pubDate>Thu, 06 Jan 2022 06:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_258/AKd78_1641449702878cS3ON_PNG/1641449685939.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['임신한 나무와 도깨비' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24460528</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 08:16:13 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_186/006LJ_1640936702958KXesg_JPEG/48138347-6a0d-11ec-b776-246e963a49a8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 캐릭터 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24375205</link>
-            <guid>https://tv.naver.com/v/24375205</guid>
-            <pubDate>Fri, 31 Dec 2021 08:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_239/r0jYI_1640936430633ume10_JPEG/1640936265491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
