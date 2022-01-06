@@ -4,9 +4,33 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 00:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 02:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['임신한 나무와 도깨비' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24460528</link>
+            <guid>https://tv.naver.com/v/24460528</guid>
+            <pubDate>Thu, 06 Jan 2022 02:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_78/4sAir_1641434556474nBbnQ_JPEG/59395f67-6e94-11ec-b908-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사울 레이터: 인 노 그레이트 허리' 감독 인사말 영상]]></title>
+            <link>https://tv.naver.com/v/24460088</link>
+            <guid>https://tv.naver.com/v/24460088</guid>
+            <pubDate>Thu, 06 Jan 2022 02:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_195/rBWb6_1641433194209bh9FK_JPEG/4c20be0a-6e91-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['특송' 30초 리뷰 영상]]></title>
+            <link>https://tv.naver.com/v/24459865</link>
+            <guid>https://tv.naver.com/v/24459865</guid>
+            <pubDate>Thu, 06 Jan 2022 02:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_17/5xy6V_1641432356743pnn52_JPEG/6a23270e-6e8f-11ec-9190-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['청춘적니' 장정의 인사영상]]></title>
             <link>https://tv.naver.com/v/24448987</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 08:16:13 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_239/r0jYI_1640936430633ume10_JPEG/1640936265491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['글래디에이터 썬더' 예고편]]></title>
-            <link>https://tv.naver.com/v/24372767</link>
-            <guid>https://tv.naver.com/v/24372767</guid>
-            <pubDate>Fri, 31 Dec 2021 06:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_240/h34JN_1640928737412X2XUD_JPEG/9c17d239-69fa-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['천기검' 예고편]]></title>
-            <link>https://tv.naver.com/v/24372348</link>
-            <guid>https://tv.naver.com/v/24372348</guid>
-            <pubDate>Fri, 31 Dec 2021 05:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_233/OwxOZ_1640927456786Fjqaw_JPEG/9caacb2d-69f7-11ec-9576-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안테벨룸' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/24370222</link>
-            <guid>https://tv.naver.com/v/24370222</guid>
-            <pubDate>Fri, 31 Dec 2021 03:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_243/GYLTy_1640919611608pdu7Y_JPEG/92f7bfb4-69e5-11ec-810a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
