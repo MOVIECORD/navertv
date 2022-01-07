@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 09:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 10:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우주 전쟁: 몬스터 헌터' 예고편]]></title>
+            <link>https://tv.naver.com/v/24490702</link>
+            <guid>https://tv.naver.com/v/24490702</guid>
+            <pubDate>Fri, 07 Jan 2022 10:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_214/5D5x6_1641546913394aMMSc_JPEG/3266d78d-6f9a-11ec-ad60-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['닥터 스트레인저' 예고편]]></title>
             <link>https://tv.naver.com/v/24490612</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Jan 2022 07:13:07 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220104_118/ZsPTs_1641280310071ObAy1_JPEG/327f927e-6d2d-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['천년의 노래, 리버스' 스팟 영상]]></title>
-            <link>https://tv.naver.com/v/24421027</link>
-            <guid>https://tv.naver.com/v/24421027</guid>
-            <pubDate>Tue, 04 Jan 2022 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_199/PQgst_1641262808182VpWm4_JPEG/a9aa9c62-6d04-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
