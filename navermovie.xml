@@ -4,9 +4,33 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['355' 런칭 예고편]]></title>
+            <link>https://tv.naver.com/v/24518751</link>
+            <guid>https://tv.naver.com/v/24518751</guid>
+            <pubDate>Mon, 10 Jan 2022 02:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_110/53kfc_1641778305561OtsMv_JPEG/1641778302050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['프랑스' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/24518668</link>
+            <guid>https://tv.naver.com/v/24518668</guid>
+            <pubDate>Mon, 10 Jan 2022 02:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_223/wg4gr_1641778004130R4Wpp_JPEG/f39c3c94-71b3-11ec-810a-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24518561</link>
+            <guid>https://tv.naver.com/v/24518561</guid>
+            <pubDate>Mon, 10 Jan 2022 02:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_70/Scykn_1641777590377lvXIC_JPEG/cacd926f-71b2-11ec-8a84-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우주 전쟁: 몬스터 헌터' 예고편]]></title>
             <link>https://tv.naver.com/v/24490702</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 05 Jan 2022 02:05:41 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_9/Umk7C_1641344931064ESw76_JPEG/ce48cb8c-6dc3-11ec-8e73-505dac8c37f3_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['T.K.G 저스티스' 예고편]]></title>
-            <link>https://tv.naver.com/v/24437910</link>
-            <guid>https://tv.naver.com/v/24437910</guid>
-            <pubDate>Wed, 05 Jan 2022 02:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_77/Nu0Ld_1641344617367l1Ckc_JPEG/d90b92cd-6dc2-11ec-b908-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경관의 피' 리뷰 스팟]]></title>
-            <link>https://tv.naver.com/v/24437788</link>
-            <guid>https://tv.naver.com/v/24437788</guid>
-            <pubDate>Wed, 05 Jan 2022 02:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_283/XZMaK_1641344114145Jtn84_JPEG/cc5c4f3d-6dc1-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['프랑스' 레아 세두 클로즈업 스페셜]]></title>
-            <link>https://tv.naver.com/v/24426728</link>
-            <guid>https://tv.naver.com/v/24426728</guid>
-            <pubDate>Tue, 04 Jan 2022 07:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_118/ZsPTs_1641280310071ObAy1_JPEG/327f927e-6d2d-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
