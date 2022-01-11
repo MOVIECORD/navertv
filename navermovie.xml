@@ -4,9 +4,57 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 05:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 06:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['클레포드 더 빅 레드 독' 해외 극찬 리뷰 영상]]></title>
+            <link>https://tv.naver.com/v/24542634</link>
+            <guid>https://tv.naver.com/v/24542634</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_171/ecRei_16418804652490qMgJ_JPEG/c8b4e7be-72a2-11ec-b2e9-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['애니멀 체인지' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24542446</link>
+            <guid>https://tv.naver.com/v/24542446</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_276/ruGBU_1641880081726hiiOV_JPEG/ebf536fe-72a1-11ec-851b-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스피드 : 레이스 1' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24542309</link>
+            <guid>https://tv.naver.com/v/24542309</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_245/bjP3b_1641879783583y42Sx_JPEG/17d0e56e-72a1-11ec-8d7a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['씽2게더' 개봉 외화 박스오피스 1위]]></title>
+            <link>https://tv.naver.com/v/24542180</link>
+            <guid>https://tv.naver.com/v/24542180</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_81/UYniw_1641879437382gBFmq_JPEG/43162081-72a0-11ec-b2e9-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['씽2게더' 개봉 외화 박스오피스 1위 영상]]></title>
+            <link>https://tv.naver.com/v/24542052</link>
+            <guid>https://tv.naver.com/v/24542052</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_195/Xf65H_1641879140059nd7Se_JPEG/94d53535-729f-11ec-8098-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 김준수 X 정선아 추천 영상]]></title>
+            <link>https://tv.naver.com/v/24541881</link>
+            <guid>https://tv.naver.com/v/24541881</guid>
+            <pubDate>Tue, 11 Jan 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_239/rJexE_1641878731077FxLRR_JPEG/b45a791e-729e-11ec-a810-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['웨스트 사이드 스토리' 촬영 제작기 영상]]></title>
             <link>https://tv.naver.com/v/24541038</link>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_78/4sAir_1641434556474nBbnQ_JPEG/59395f67-6e94-11ec-b908-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사울 레이터: 인 노 그레이트 허리' 감독 인사말 영상]]></title>
-            <link>https://tv.naver.com/v/24460088</link>
-            <guid>https://tv.naver.com/v/24460088</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_195/rBWb6_1641433194209bh9FK_JPEG/4c20be0a-6e91-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 30초 리뷰 영상]]></title>
-            <link>https://tv.naver.com/v/24459865</link>
-            <guid>https://tv.naver.com/v/24459865</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_17/5xy6V_1641432356743pnn52_JPEG/6a23270e-6e8f-11ec-9190-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청춘적니' 장정의 인사영상]]></title>
-            <link>https://tv.naver.com/v/24448987</link>
-            <guid>https://tv.naver.com/v/24448987</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_248/XQx04_1641372146728NeSpR_JPEG/fd08e060-6e02-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['천녀유혼4' 예고편]]></title>
-            <link>https://tv.naver.com/v/24448553</link>
-            <guid>https://tv.naver.com/v/24448553</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_48/eejKQ_1641371090512nl9dW_JPEG/ba6fff15-6e00-11ec-bf61-505dac8c381b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극장판 안녕 자두야: 제주도의 비밀' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24448208</link>
-            <guid>https://tv.naver.com/v/24448208</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_4/6Nx1k_1641370135692n45XP_JPEG/7fee58be-6dfe-11ec-9a83-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 킹메이커의 조건 영상]]></title>
-            <link>https://tv.naver.com/v/24444055</link>
-            <guid>https://tv.naver.com/v/24444055</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_1/lSoJc_1641363257304vS8XP_JPEG/1641363061837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
