@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 00:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 02:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['짬뽕비권' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/24557081</link>
+            <guid>https://tv.naver.com/v/24557081</guid>
+            <pubDate>Wed, 12 Jan 2022 02:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_47/Ma6kI_16419526728232IIye_JPEG/cc7d4b5d-734a-11ec-b11b-246e963a464c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['짬뽕비권' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24557010</link>
+            <guid>https://tv.naver.com/v/24557010</guid>
+            <pubDate>Wed, 12 Jan 2022 02:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_259/cyHna_16419524023788krWr_JPEG/09b89a86-734a-11ec-bd70-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['미싱타는 여자들' 2차 캐릭터 예고편]]></title>
             <link>https://tv.naver.com/v/24547812</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_100/U12UD_164145921994637Bum_JPEG/e2d40722-6ecd-11ec-8a04-505dac8c3639_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극장판 천재 추리 탐정 셜록홈즈' [알.쓸.과학] 영상]]></title>
-            <link>https://tv.naver.com/v/24467490</link>
-            <guid>https://tv.naver.com/v/24467490</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_249/q5GV4_1641454976787J4HNj_JPEG/26a53841-6ec4-11ec-8cee-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나일 강의 죽음' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24466768</link>
-            <guid>https://tv.naver.com/v/24466768</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_109/kLqs1_1641453138570iiPF6_JPEG/9f46aa9e-6ebf-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
