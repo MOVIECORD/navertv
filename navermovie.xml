@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 09:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 10:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리: 디 오리지널' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24566924</link>
+            <guid>https://tv.naver.com/v/24566924</guid>
+            <pubDate>Wed, 12 Jan 2022 10:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_267/kqcM5_16419791137465QMeT_JPEG/70090b49-7388-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['노르망디 상륙작전' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24566847</link>
+            <guid>https://tv.naver.com/v/24566847</guid>
+            <pubDate>Wed, 12 Jan 2022 10:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_215/c1aeY_1641978816842TAdds_JPEG/8c0b9128-7387-11ec-bd70-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['트로트는 인생이다' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/24562647</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_51/eqiaa_1641544828035WuEBs_JPEG/2a24fd0e-6f95-11ec-8e73-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 캐릭터 소개 영상 '아니타 꿈과 희망']]></title>
-            <link>https://tv.naver.com/v/24486042</link>
-            <guid>https://tv.naver.com/v/24486042</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_255/y59TG_1641534512724vHPkS_JPEG/4fbec4d7-6f7d-11ec-a831-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 캐릭터 소개 영상 '베르나르도&리프 타오르는 열정']]></title>
-            <link>https://tv.naver.com/v/24485971</link>
-            <guid>https://tv.naver.com/v/24485971</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_240/XDcmf_1641534303433s5k9I_JPEG/bb12ec95-6f7c-11ec-9190-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
