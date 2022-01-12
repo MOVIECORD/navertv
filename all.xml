@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['콜로니: 지구 귀환 프로젝트' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24560341</link>
+            <guid>https://tv.naver.com/v/24560341</guid>
+            <pubDate>Wed, 12 Jan 2022 05:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_140/Ce3Gc_1641963633777NHx8i_JPEG/31db927b-7364-11ec-9f69-505dac8c3639_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹메이커' Behind The Scene 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24557541</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_218/4nDf7_164151825889259wB4_JPEG/2724e59c-6f57-11ec-9d44-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' R.P.M 제작기 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24469693</link>
-            <guid>https://tv.naver.com/v/24469693</guid>
-            <pubDate>Mon, 10 Jan 2022 08:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_249/zvzBd_1641460397986caCyk_JPEG/8c590625-6ed0-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
