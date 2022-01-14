@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 06:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사막을 건너 호수를 지나' OST 뮤직비디오 2탄 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24600585</link>
+            <guid>https://tv.naver.com/v/24600585</guid>
+            <pubDate>Fri, 14 Jan 2022 06:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_127/7F6jT_1642138636008GFP4V_JPEG/bca647f2-74fb-11ec-99fd-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미인어2' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24600423</link>
+            <guid>https://tv.naver.com/v/24600423</guid>
+            <pubDate>Fri, 14 Jan 2022 06:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_54/SlAQw_1642138274009li4OO_JPEG/21b22990-74fb-11ec-b3d2-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미싱타는 여자들' 영화감독 추천 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24600160</link>
+            <guid>https://tv.naver.com/v/24600160</guid>
+            <pubDate>Fri, 14 Jan 2022 06:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_249/rzY6M_1642137468459O1OSM_JPEG/186f2a89-74f9-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['보드랍게' 런칭 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24599900</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 11 Jan 2022 06:16:55 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_195/Xf65H_1641879140059nd7Se_JPEG/94d53535-729f-11ec-8098-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 김준수 X 정선아 추천 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24541881</link>
-            <guid>https://tv.naver.com/v/24541881</guid>
-            <pubDate>Tue, 11 Jan 2022 06:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_239/rJexE_1641878731077FxLRR_JPEG/b45a791e-729e-11ec-a810-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리' 촬영 제작기 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24541038</link>
-            <guid>https://tv.naver.com/v/24541038</guid>
-            <pubDate>Tue, 11 Jan 2022 05:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_189/62X0Q_164187649693535wJf_JPEG/92b28b3b-7299-11ec-a810-505dac8c38f5_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['온 세상이 하얗다' '한 남자의 편지' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24539192</link>
-            <guid>https://tv.naver.com/v/24539192</guid>
-            <pubDate>Tue, 11 Jan 2022 03:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_227/0u0wd_1641870071637uuKtX_JPEG/78fa5e9a-728a-11ec-9c2c-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
