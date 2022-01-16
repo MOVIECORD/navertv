@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 04:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 05:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1768,6 +1768,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210617_83/d2jN3_1623890204584GqybO_PNG/clip_20210617092214_12.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[애니메이션 제작 환경의 현실💧, '상업'적 투자가 위주인 정부 | JTBC 220116 방송 (방구석1열 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24628202</link>
+            <guid>https://tv.naver.com/v/24628202</guid>
+            <pubDate>Sun, 16 Jan 2022 05:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_141/JOLNC_1642309952395qpTi2_JPEG/20220116_140409_564_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＂쓸개까지 나올 지경🤣＂ 극영화보다 더 힘든 목소리 연기 | JTBC 220116 방송 (방구석1열 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24628201</link>
+            <guid>https://tv.naver.com/v/24628201</guid>
+            <pubDate>Sun, 16 Jan 2022 05:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_145/UsFqL_16423099502763A1Qg_JPEG/20220116_140117_728_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주 기자 Pick 👉 이 영화가 왜 '애니메이션'인지 알겠다…👏 | JTBC 220116 방송 (방구석1열 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24628154</link>
+            <guid>https://tv.naver.com/v/24628154</guid>
+            <pubDate>Sun, 16 Jan 2022 05:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_55/PYvIR_1642309591338KQT2F_JPEG/20220116_135536_197_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 최.초! 칸 영화제에 진출한 애니메이션 ＜돼지의 왕＞ | JTBC 220116 방송 (방구석1열 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24628092</link>
+            <guid>https://tv.naver.com/v/24628092</guid>
+            <pubDate>Sun, 16 Jan 2022 05:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_195/347GE_16423090528402vIUV_JPEG/20220116_134927_904_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화계의 한 획을 그은 K-좀비 영화의 상징 = 연상호 감독(?) | JTBC 220116 방송 (방구석1열 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24628091</link>
+            <guid>https://tv.naver.com/v/24628091</guid>
+            <pubDate>Sun, 16 Jan 2022 05:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_151/G2zNM_16423090507410ndxG_JPEG/20220116_134532_239_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조영각PD ＂이상한 애가 다 있네‥＂ 연상호 감독의 첫인상은 꽝💥?! | JTBC 220116 방송 (방구석1열 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24628041</link>
+            <guid>https://tv.naver.com/v/24628041</guid>
+            <pubDate>Sun, 16 Jan 2022 05:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_214/2vCaf_1642308692297SIhW0_JPEG/20220116_134136_180_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방구석 1열 190회 예고편 (방구석1열 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24510869</link>
             <guid>https://tv.naver.com/v/24510869</guid>
@@ -1958,54 +2006,6 @@
             <pubDate>Mon, 10 Jan 2022 08:18:09 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211017_284/IBzxx_163445026262564VK8_JPEG/20211017_143318_662_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방구석 1열 177회 예고편 (방구석1열 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22884489</link>
-            <guid>https://tv.naver.com/v/22884489</guid>
-            <pubDate>Mon, 10 Jan 2022 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211010_18/Fcw1t_1633845098677lV9VC_JPEG/20211010_143757_630_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방구석 1열 176회 예고편 (방구석1열 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22760654</link>
-            <guid>https://tv.naver.com/v/22760654</guid>
-            <pubDate>Mon, 10 Jan 2022 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_162/tnaE6_1633241573083hskWK_JPEG/20211003_150041_850_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문화재청이 선정한 '문화유산 10대 방문 코스'! 취향 따라 Pick💕 | JTBC 211003 방송 (방구석1열 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22760609</link>
-            <guid>https://tv.naver.com/v/22760609</guid>
-            <pubDate>Mon, 10 Jan 2022 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_167/flXFJ_1633241209375phNsp_JPEG/20211003_144728_177_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조명, 온도, 습도 모두 완벽bb 〈도리화가〉에 담긴 한국의 자연 풍경들😊 | JTBC 211003 방송 (방구석1열 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22760488</link>
-            <guid>https://tv.naver.com/v/22760488</guid>
-            <pubDate>Mon, 10 Jan 2022 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_170/lBzqQ_1633240299431Bhzpc_JPEG/20211003_143835_204_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[도리화가] 금기를 뛰어넘은 조선 판소리계의 독보적 인물 '진채선' | JTBC 211003 방송 (방구석1열 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22760487</link>
-            <guid>https://tv.naver.com/v/22760487</guid>
-            <pubDate>Mon, 10 Jan 2022 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_17/2rZpD_1633240297931C80WX_JPEG/20211003_143252_868_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판소리계의 허준?! 판소리 보존과 발전에 기여한 '명창 신재효' | JTBC 211003 방송 (방구석1열 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22760400</link>
-            <guid>https://tv.naver.com/v/22760400</guid>
-            <pubDate>Mon, 10 Jan 2022 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_125/01tVZ_1633239755934eA06h_JPEG/20211003_142441_104_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
