@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 04:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 05:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['더 배트맨' 3차 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24663881</link>
+            <guid>https://tv.naver.com/v/24663881</guid>
+            <pubDate>Tue, 18 Jan 2022 05:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_77/tdC7C_1642482127941PO9vl_JPEG/a03c500c-781b-11ec-8fb9-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['유체이탈자' 카체이싱 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24648046</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jan 2022 07:13:08 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_109/cbUrN_1641969258707qaNfL_JPEG/526cbf49-7371-11ec-b3d2-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['단'ㅅ 패밀리 남바완' 예고편 2 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24562444</link>
-            <guid>https://tv.naver.com/v/24562444</guid>
-            <pubDate>Wed, 12 Jan 2022 07:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_106/Fetv6_1641968860261SfTG9_JPEG/761805ef-7370-11ec-bd70-505dac8c38f5_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
