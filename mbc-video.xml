@@ -4,7 +4,7 @@
         <title>출발! 비디오 여행 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 08:18:03 GMT</pubDate>
             <content:encoded><![CDATA[4:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210707_104/2Y0eG_1625638307108Y3eKT_PNG/clip_20210707150156_0.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 대 영화] 야, 너도 명함 물면 취직할 수 있어★, MBC 210627 방송]]></title>
-            <link>https://tv.naver.com/v/21048952</link>
-            <guid>https://tv.naver.com/v/21048952</guid>
-            <pubDate>Mon, 10 Jan 2022 08:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[7:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210701_296/ubgt8_1625125003830yU4Q1_PNG/clip_20210701162935_34.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이유있다] 빈집을 서점으로 개조하자 벌어진 일, MBC 210627 방송]]></title>
