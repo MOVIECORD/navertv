@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 08:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['야릇한 이중생활' 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24709418</link>
+            <guid>https://tv.naver.com/v/24709418</guid>
+            <pubDate>Thu, 20 Jan 2022 08:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_11/4xXUB_1642666136353Mv9A7_JPEG/14fc45a1-79c8-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['레이징 파이어' 스트릿 액션 파이터 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24708761</link>
+            <guid>https://tv.naver.com/v/24708761</guid>
+            <pubDate>Thu, 20 Jan 2022 08:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_84/xpu5y_1642664681920YmvSx_JPEG/b599824e-79c4-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['더 마더' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24708531</link>
+            <guid>https://tv.naver.com/v/24708531</guid>
+            <pubDate>Thu, 20 Jan 2022 08:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_52/KI2Yq_16426639548805yf2G_JPEG/f5d5ab80-79c2-11ec-bf5d-a0369ff952f4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인어가 잠든 집' 사카구치 켄타로 심쿵 모먼트 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24700768</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Jan 2022 07:13:16 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_196/nY1kI_1642400602605eI6sC_JPEG/afab0fac-775d-11ec-9c62-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['임신한 나무와 도깨비' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24643580</link>
-            <guid>https://tv.naver.com/v/24643580</guid>
-            <pubDate>Mon, 17 Jan 2022 06:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_47/neo2p_1642399868768gMWQQ_JPEG/18f3cc61-775c-11ec-8e85-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['장민호 드라마 최종회' 30초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24643468</link>
-            <guid>https://tv.naver.com/v/24643468</guid>
-            <pubDate>Mon, 17 Jan 2022 06:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_168/McnmP_1642399592741CjDtr_JPEG/73f50780-775b-11ec-9f25-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['355' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24639553</link>
-            <guid>https://tv.naver.com/v/24639553</guid>
-            <pubDate>Mon, 17 Jan 2022 03:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_98/QZun9_1642387454448UBWsl_JPEG/1da2b467-773f-11ec-9c62-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
