@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 07:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 08:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발' 찐반응 영상]]></title>
+            <link>https://tv.naver.com/v/24729677</link>
+            <guid>https://tv.naver.com/v/24729677</guid>
+            <pubDate>Fri, 21 Jan 2022 08:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_262/dP2Nj_1642752819138rxzeU_JPEG/e1c010f8-7a91-11ec-8fb9-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 테러 라이브 인 하이스쿨' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/24726948</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_267/pIkj7_1642746186900eWyjJ_JPEG/7d45183f-7a82-11ec-b3f1-505dacfbaa5c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['클리포드 더 빅 레드 독' 알쓸클잡 영상]]></title>
+            <title><![CDATA['클리포드 더 빅 레드 독' 알쓸"클"잡 스페셜 영상]]></title>
             <link>https://tv.naver.com/v/24726438</link>
             <guid>https://tv.naver.com/v/24726438</guid>
             <pubDate>Fri, 21 Jan 2022 07:12:42 GMT</pubDate>
@@ -40,7 +48,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_186/XYZLi_1642745771696WYSDF_JPEG/47e17345-7a81-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['클리포드 더 빅 레드 독' 베스트셀러 영상]]></title>
+            <title><![CDATA['클리포드 더 빅 레드 독' 스크린으로 만나는 베스트셀러 영상]]></title>
             <link>https://tv.naver.com/v/24726302</link>
             <guid>https://tv.naver.com/v/24726302</guid>
             <pubDate>Fri, 21 Jan 2022 06:15:22 GMT</pubDate>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jan 2022 02:25:19 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_32/96CNv_1642558046843kySG3_JPEG/3c75d725-78cc-11ec-955b-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['씽2게더' 본투비 아이돌 포르샤 클립]]></title>
-            <link>https://tv.naver.com/v/24681501</link>
-            <guid>https://tv.naver.com/v/24681501</guid>
-            <pubDate>Wed, 19 Jan 2022 02:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_279/eioNx_1642557771963ysNrD_JPEG/b714a37d-78cb-11ec-9ab6-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
