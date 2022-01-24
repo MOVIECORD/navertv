@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['걸 위드 더 카메라' 영화 언박싱 Q&A (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24766515</link>
+            <guid>https://tv.naver.com/v/24766515</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_73/LH9ib_1643007140789JpOpc_JPEG/eaee634e-7ce1-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['극장판 주술회전 0' 런칭 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24765808</link>
+            <guid>https://tv.naver.com/v/24765808</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_142/g4NQ7_1643005346792ja6I9_JPEG/e2d3551b-7cdd-11ec-bf5d-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가슴이 떨리는 건 너 때문' 설렘 지수 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24765607</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 19 Jan 2022 08:14:40 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_267/uzReV_1642578410321FT3Se_JPEG/afdd8f16-78fb-11ec-8fb9-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미싱타는 여자들' 정치계 추천 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24688441</link>
-            <guid>https://tv.naver.com/v/24688441</guid>
-            <pubDate>Wed, 19 Jan 2022 08:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_113/ZmHta_1642578178796srhzs_JPEG/2813e778-78fb-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미싱타는 여자들' 영화계 추천 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24688315</link>
-            <guid>https://tv.naver.com/v/24688315</guid>
-            <pubDate>Wed, 19 Jan 2022 08:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_197/RWivV_1642577870541PqJIq_JPEG/494fdb6c-78fa-11ec-8581-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
