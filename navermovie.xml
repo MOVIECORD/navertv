@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 02:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 03:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발' 리뷰영상]]></title>
+            <link>https://tv.naver.com/v/24779357</link>
+            <guid>https://tv.naver.com/v/24779357</guid>
+            <pubDate>Tue, 25 Jan 2022 03:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_191/AQYRA_16430764467707fJaR_JPEG/62457741-7d83-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹메이커' 글로벌 예고편]]></title>
             <link>https://tv.naver.com/v/24778892</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Jan 2022 09:13:35 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_108/BP7lZ_1642666942095J4ABd_JPEG/f19a47bf-79c9-11ec-8fb9-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['야릇한 이중생활' 예고편]]></title>
-            <link>https://tv.naver.com/v/24709418</link>
-            <guid>https://tv.naver.com/v/24709418</guid>
-            <pubDate>Thu, 20 Jan 2022 08:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_11/4xXUB_1642666136353Mv9A7_JPEG/14fc45a1-79c8-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
