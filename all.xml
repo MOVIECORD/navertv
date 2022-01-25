@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 00:49:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 02:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹메이커' 글로벌 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24778892</link>
+            <guid>https://tv.naver.com/v/24778892</guid>
+            <pubDate>Tue, 25 Jan 2022 02:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_171/2l814_1643075204895I5BNw_JPEG/6f3765e0-7d80-11ec-b9f9-a0369ff94ec8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['나의 촛불' 60초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24778520</link>
+            <guid>https://tv.naver.com/v/24778520</guid>
+            <pubDate>Tue, 25 Jan 2022 02:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_285/0qktW_1643073944999I8rri_JPEG/5cb76763-7d7d-11ec-bf63-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['블러드써스티' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24769016</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 20 Jan 2022 08:15:34 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_11/4xXUB_1642666136353Mv9A7_JPEG/14fc45a1-79c8-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['레이징 파이어' 스트릿 액션 파이터 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24708761</link>
-            <guid>https://tv.naver.com/v/24708761</guid>
-            <pubDate>Thu, 20 Jan 2022 08:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_84/xpu5y_1642664681920YmvSx_JPEG/b599824e-79c4-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 마더' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24708531</link>
-            <guid>https://tv.naver.com/v/24708531</guid>
-            <pubDate>Thu, 20 Jan 2022 08:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_52/KI2Yq_16426639548805yf2G_JPEG/f5d5ab80-79c2-11ec-bf5d-a0369ff952f4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
