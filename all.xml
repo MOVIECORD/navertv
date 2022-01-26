@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 06:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 07:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['역으로 가는 길을 알려줘' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24806702</link>
+            <guid>https://tv.naver.com/v/24806702</guid>
+            <pubDate>Wed, 26 Jan 2022 07:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_229/AwtGK_1643180663520TY50v_JPEG/e7dd0e4e-7e75-11ec-9f69-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['잉글리시 북 클럽: 반지의 제왕' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24803979</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Jan 2022 02:01:31 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220124_30/s8XpW_1642987140497qGGuk_JPEG/63e7ab95-7cb3-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트로트는 인생이다' 추천 영상 2탄 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24760762</link>
-            <guid>https://tv.naver.com/v/24760762</guid>
-            <pubDate>Mon, 24 Jan 2022 02:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_236/CG3OP_1642986269201qvySK_JPEG/64cf104d-7cb1-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
