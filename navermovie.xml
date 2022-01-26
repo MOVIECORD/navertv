@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 09:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 10:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['다섯커플의 결혼해 말어' 예고편]]></title>
+            <link>https://tv.naver.com/v/24810503</link>
+            <guid>https://tv.naver.com/v/24810503</guid>
+            <pubDate>Wed, 26 Jan 2022 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_48/9IrlQ_1643189395516z8BCr_JPEG/63e7444d-7e8a-11ec-9ab6-a0369ff963bc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['프리! 더 파이널 스트로크 전편' 하이라이트 영상]]></title>
             <link>https://tv.naver.com/v/24809745</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Jan 2022 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220124_97/pNbpg_1642992366115BBghx_JPEG/73772ab4-7cbf-11ec-9c62-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미싱타는 여자들' 문화계 인사 추천 영상]]></title>
-            <link>https://tv.naver.com/v/24762022</link>
-            <guid>https://tv.naver.com/v/24762022</guid>
-            <pubDate>Mon, 24 Jan 2022 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_196/K7jIl_1642991317465esQWW_JPEG/138b1db6-7cbd-11ec-9ab6-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
