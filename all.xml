@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 06:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['레스큐 더 파일럿' 메인 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24827894</link>
+            <guid>https://tv.naver.com/v/24827894</guid>
+            <pubDate>Thu, 27 Jan 2022 06:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_99/EaLRI_1643263211262G7XHr_JPEG/4f294979-7f36-11ec-9f25-246e963a49a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['B컷' 티저 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24827357</link>
+            <guid>https://tv.naver.com/v/24827357</guid>
+            <pubDate>Thu, 27 Jan 2022 06:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_203/h5iz8_1643262064238K3Buf_JPEG/a402a910-7f33-11ec-bf5d-a0369ff952f4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['루이스 웨인: 사랑을 그린 고양이 화가' 스페셜 런칭 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24823685</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 24 Jan 2022 07:17:18 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220124_73/LH9ib_1643007140789JpOpc_JPEG/eaee634e-7ce1-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극장판 주술회전 0' 런칭 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24765808</link>
-            <guid>https://tv.naver.com/v/24765808</guid>
-            <pubDate>Mon, 24 Jan 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_142/g4NQ7_1643005346792ja6I9_JPEG/e2d3551b-7cdd-11ec-bf5d-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['가슴이 떨리는 건 너 때문' 설렘 지수 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24765607</link>
-            <guid>https://tv.naver.com/v/24765607</guid>
-            <pubDate>Mon, 24 Jan 2022 06:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_27/XV2Z2_1643004910490xUOx6_JPEG/d29c2384-7cdc-11ec-99a2-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
