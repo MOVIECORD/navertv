@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미싱타는 여자들' 뮤직비디오 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24846186</link>
+            <guid>https://tv.naver.com/v/24846186</guid>
+            <pubDate>Fri, 28 Jan 2022 06:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_22/KZZCZ_1643349050562CfK3R_JPEG/1eb5e35f-7ffe-11ec-b3f1-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가슴이 떨리는 건 너 때문' 4인 4색 로맨스 영상 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24846056</link>
+            <guid>https://tv.naver.com/v/24846056</guid>
+            <pubDate>Fri, 28 Jan 2022 06:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_1/Uc3Aj_1643348727432oerKA_JPEG/6d9b99d9-7ffd-11ec-b9f9-a0369ff94ec8_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['씽2게더' 애쉬 완벽 보이스 감성 클립 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24842274</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 25 Jan 2022 03:13:18 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220125_191/AQYRA_16430764467707fJaR_JPEG/62457741-7d83-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 글로벌 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24778892</link>
-            <guid>https://tv.naver.com/v/24778892</guid>
-            <pubDate>Tue, 25 Jan 2022 02:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_171/2l814_1643075204895I5BNw_JPEG/6f3765e0-7d80-11ec-b9f9-a0369ff94ec8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 촛불' 60초 예고편 (네이버 영화 예고편 저장소네이버 영화 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24778520</link>
-            <guid>https://tv.naver.com/v/24778520</guid>
-            <pubDate>Tue, 25 Jan 2022 02:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_285/0qktW_1643073944999I8rri_JPEG/5cb76763-7d7d-11ec-bf63-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단편 애니메이션 기획전 : ANI WHERE] 서울소리 (연출 김경배)_하이라이트 영상 (네이버 인디극장 ─ 네이버TV)]]></title>
